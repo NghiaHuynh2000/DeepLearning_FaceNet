@@ -85,64 +85,50 @@ def AttendanceWrite(idList):
 
     df.to_excel(path, sheet_name='States', index=False)
 
-
-
 class Ui_List(object):
     def setupUi(self, List, idList):
         List.setObjectName("List")
-        List.resize(589, 490)
-        List.setStyleSheet("background-color:#111111")
+        List.resize(478, 694)
+        List.setStyleSheet("background-color: qlineargradient(spread:pad, x1:, y:1, x2:1, y2:, stop:0 #CC9999, stop:1 #9900FF        );")
         self.centralwidget = QtWidgets.QWidget(List)
         self.centralwidget.setObjectName("centralwidget")
-        self.frame = QtWidgets.QFrame(self.centralwidget)
-        self.frame.setGeometry(QtCore.QRect(10, 80, 121, 401))
-        self.frame.setStyleSheet("Background-color:#222222")
-        self.frame.setFrameShape(QtWidgets.QFrame.StyledPanel)
-        self.frame.setFrameShadow(QtWidgets.QFrame.Raised)
-        self.frame.setObjectName("frame")
-        self.label_2 = QtWidgets.QLabel(self.frame)
-        self.label_2.setGeometry(QtCore.QRect(-10, 20, 151, 201))
-        self.label_2.setText("")
-        self.label_2.setPixmap(QtGui.QPixmap("Picture4.png"))
-        self.label_2.setScaledContents(True)
-        self.label_2.setObjectName("label_2")
         self.widget = QtWidgets.QWidget(self.centralwidget)
-        self.widget.setGeometry(QtCore.QRect(140, 80, 441, 401))
-        self.widget.setStyleSheet("Background-color:#222222")
+        self.widget.setGeometry(QtCore.QRect(20, 20, 441, 661))
+        self.widget.setStyleSheet("background-color: #FFFFCC;border-radius: 20px;")
         self.widget.setObjectName("widget")
         self.lstwtID = QtWidgets.QListWidget(self.widget)
-        self.lstwtID.setGeometry(QtCore.QRect(10, 20, 421, 371))
+        self.lstwtID.setGeometry(QtCore.QRect(40, 90, 371, 551))
+        font = QtGui.QFont()
+        font.setPointSize(16)
+        self.lstwtID.setFont(font)
+        self.lstwtID.setStyleSheet("color:black;background-color: white;border-style: solid;border-radius: 25px;border:1px solid")
+        self.lstwtID.setViewMode(QtWidgets.QListView.ListMode)
+        self.lstwtID.setModelColumn(0)
+        self.lstwtID.setObjectName("lstwtID")
+
         idList.sort()
         for i in range(0, len(idList)):
-            self.lstwtID.addItem(str(idList[i]) + " - " + GetProfile(idList[i])[1])
+            self.lstwtID.addItem("    "+str(idList[i]) + " - " + GetProfile(idList[i])[1])
 
         idList = AttendanceList(idList)
 
         AttendanceWrite(idList)
 
+        self.label_2 = QtWidgets.QLabel(self.widget)
+        self.label_2.setGeometry(QtCore.QRect(80, 20, 291, 61))
         font = QtGui.QFont()
-        font.setPointSize(20)
-        self.lstwtID.setFont(font)
-        self.lstwtID.setStyleSheet("background:white")
-        self.lstwtID.setViewMode(QtWidgets.QListView.ListMode)
-        self.lstwtID.setModelColumn(0)
-        self.lstwtID.setObjectName("lstwtID")
-        self.widget_2 = QtWidgets.QWidget(self.centralwidget)
-        self.widget_2.setGeometry(QtCore.QRect(10, 10, 571, 61))
-        self.widget_2.setStyleSheet("Background-color:#222222")
-        self.widget_2.setObjectName("widget_2")
-        self.label_3 = QtWidgets.QLabel(self.widget_2)
-        self.label_3.setGeometry(QtCore.QRect(130, 10, 341, 51))
-        font = QtGui.QFont()
-        font.setFamily("MS UI Gothic")
-        font.setPointSize(20)
+        font.setFamily("SVN-Blue")
+        font.setPointSize(27)
         font.setBold(True)
-        font.setItalic(True)
         font.setUnderline(True)
         font.setWeight(75)
-        self.label_3.setFont(font)
-        self.label_3.setStyleSheet("color: white")
-        self.label_3.setObjectName("label_3")
+        self.label_2.setFont(font)
+        self.label_2.setLayoutDirection(QtCore.Qt.LeftToRight)
+        self.label_2.setStyleSheet("color:#660066    ;")
+        self.label_2.setTextFormat(QtCore.Qt.AutoText)
+        self.label_2.setAlignment(QtCore.Qt.AlignCenter)
+        self.label_2.setWordWrap(True)
+        self.label_2.setObjectName("label_2")
         List.setCentralWidget(self.centralwidget)
 
         self.retranslateUi(List)
@@ -151,7 +137,7 @@ class Ui_List(object):
     def retranslateUi(self, List):
         _translate = QtCore.QCoreApplication.translate
         List.setWindowTitle(_translate("List", "Danh sách"))
-        self.label_3.setText(_translate("List", "LIST OF STUDENTS:"))
+        self.label_2.setText(_translate("List", "List of Students"))
 
 
 if __name__ == "__main__":
@@ -162,4 +148,3 @@ if __name__ == "__main__":
     ui.setupUi(List)
     List.show()
     sys.exit(app.exec_())
-

@@ -1,0 +1,3000 @@
+./aligned_img\18110001\1 - Copy.png 303 196 452 382
+./aligned_img\18110001\1.png 303 196 452 382
+./aligned_img\18110001\10 - Copy.png 304 206 446 381
+./aligned_img\18110001\10.png 304 206 446 381
+./aligned_img\18110001\100 - Copy.png 304 197 439 353
+./aligned_img\18110001\100.png 304 197 439 353
+./aligned_img\18110001\101 - Copy.png 300 197 437 350
+./aligned_img\18110001\101.png 300 197 437 350
+./aligned_img\18110001\102 - Copy.png 298 197 436 353
+./aligned_img\18110001\102.png 298 197 436 353
+./aligned_img\18110001\103 - Copy.png 305 197 439 344
+./aligned_img\18110001\103.png 305 197 439 344
+./aligned_img\18110001\104 - Copy.png 302 195 435 345
+./aligned_img\18110001\104.png 302 195 435 345
+./aligned_img\18110001\105 - Copy.png 296 187 438 355
+./aligned_img\18110001\105.png 296 187 438 355
+./aligned_img\18110001\106 - Copy.png 300 191 433 352
+./aligned_img\18110001\106.png 300 191 433 352
+./aligned_img\18110001\107 - Copy.png 300 193 433 342
+./aligned_img\18110001\107.png 300 193 433 342
+./aligned_img\18110001\108 - Copy.png 296 190 435 352
+./aligned_img\18110001\108.png 296 190 435 352
+./aligned_img\18110001\109 - Copy.png 299 190 437 350
+./aligned_img\18110001\109.png 299 190 437 350
+./aligned_img\18110001\11 - Copy.png 305 200 449 380
+./aligned_img\18110001\11.png 305 200 449 380
+./aligned_img\18110001\110 - Copy.png 298 194 433 361
+./aligned_img\18110001\110.png 298 194 433 361
+./aligned_img\18110001\111 - Copy.png 297 192 437 357
+./aligned_img\18110001\111.png 297 192 437 357
+./aligned_img\18110001\112 - Copy.png 299 195 436 350
+./aligned_img\18110001\112.png 299 195 436 350
+./aligned_img\18110001\113 - Copy.png 303 195 436 348
+./aligned_img\18110001\113.png 303 195 436 348
+./aligned_img\18110001\114 - Copy.png 296 190 440 354
+./aligned_img\18110001\114.png 296 190 440 354
+./aligned_img\18110001\115 - Copy.png 298 191 437 350
+./aligned_img\18110001\115.png 298 191 437 350
+./aligned_img\18110001\116 - Copy.png 298 192 438 351
+./aligned_img\18110001\116.png 298 192 438 351
+./aligned_img\18110001\117 - Copy.png 299 191 437 351
+./aligned_img\18110001\117.png 299 191 437 351
+./aligned_img\18110001\118 - Copy.png 296 192 438 355
+./aligned_img\18110001\118.png 296 192 438 355
+./aligned_img\18110001\119 - Copy.png 299 192 439 352
+./aligned_img\18110001\119.png 299 192 439 352
+./aligned_img\18110001\12 - Copy.png 305 205 448 381
+./aligned_img\18110001\12.png 305 205 448 381
+./aligned_img\18110001\120 - Copy.png 301 193 439 348
+./aligned_img\18110001\120.png 301 193 439 348
+./aligned_img\18110001\121 - Copy.png 308 198 436 342
+./aligned_img\18110001\121.png 308 198 436 342
+./aligned_img\18110001\122 - Copy.png 307 199 433 342
+./aligned_img\18110001\122.png 307 199 433 342
+./aligned_img\18110001\123 - Copy.png 306 198 441 344
+./aligned_img\18110001\123.png 306 198 441 344
+./aligned_img\18110001\124 - Copy.png 300 198 436 353
+./aligned_img\18110001\124.png 300 198 436 353
+./aligned_img\18110001\125 - Copy.png 304 199 438 351
+./aligned_img\18110001\125.png 304 199 438 351
+./aligned_img\18110001\126 - Copy.png 305 202 437 352
+./aligned_img\18110001\126.png 305 202 437 352
+./aligned_img\18110001\127 - Copy.png 304 202 434 357
+./aligned_img\18110001\127.png 304 202 434 357
+./aligned_img\18110001\128 - Copy.png 303 205 437 362
+./aligned_img\18110001\128.png 303 205 437 362
+./aligned_img\18110001\129 - Copy.png 303 211 436 368
+./aligned_img\18110001\129.png 303 211 436 368
+./aligned_img\18110001\13 - Copy.png 302 203 447 379
+./aligned_img\18110001\13.png 302 203 447 379
+./aligned_img\18110001\130 - Copy.png 300 207 438 374
+./aligned_img\18110001\130.png 300 207 438 374
+./aligned_img\18110001\131 - Copy.png 301 207 437 371
+./aligned_img\18110001\131.png 301 207 437 371
+./aligned_img\18110001\132 - Copy.png 300 208 437 377
+./aligned_img\18110001\132.png 300 208 437 377
+./aligned_img\18110001\133 - Copy.png 298 206 437 378
+./aligned_img\18110001\133.png 298 206 437 378
+./aligned_img\18110001\134 - Copy.png 299 207 437 375
+./aligned_img\18110001\134.png 299 207 437 375
+./aligned_img\18110001\135 - Copy.png 301 208 438 377
+./aligned_img\18110001\135.png 301 208 438 377
+./aligned_img\18110001\136 - Copy.png 303 206 442 376
+./aligned_img\18110001\136.png 303 206 442 376
+./aligned_img\18110001\137 - Copy.png 303 208 440 379
+./aligned_img\18110001\137.png 303 208 440 379
+./aligned_img\18110001\138 - Copy.png 301 207 441 375
+./aligned_img\18110001\138.png 301 207 441 375
+./aligned_img\18110001\139 - Copy.png 301 207 441 377
+./aligned_img\18110001\139.png 301 207 441 377
+./aligned_img\18110001\14 - Copy.png 302 204 445 380
+./aligned_img\18110001\14.png 302 204 445 380
+./aligned_img\18110001\140 - Copy.png 305 209 442 375
+./aligned_img\18110001\140.png 305 209 442 375
+./aligned_img\18110001\141 - Copy.png 301 204 444 378
+./aligned_img\18110001\141.png 301 204 444 378
+./aligned_img\18110001\142 - Copy.png 302 202 445 378
+./aligned_img\18110001\142.png 302 202 445 378
+./aligned_img\18110001\143 - Copy.png 305 205 447 377
+./aligned_img\18110001\143.png 305 205 447 377
+./aligned_img\18110001\144 - Copy.png 311 205 447 374
+./aligned_img\18110001\144.png 311 205 447 374
+./aligned_img\18110001\145 - Copy.png 313 210 445 373
+./aligned_img\18110001\145.png 313 210 445 373
+./aligned_img\18110001\146 - Copy.png 314 201 450 371
+./aligned_img\18110001\146.png 314 201 450 371
+./aligned_img\18110001\147 - Copy.png 323 204 456 370
+./aligned_img\18110001\147.png 323 204 456 370
+./aligned_img\18110001\148 - Copy.png 330 205 459 367
+./aligned_img\18110001\148.png 330 205 459 367
+./aligned_img\18110001\149 - Copy.png 337 204 464 366
+./aligned_img\18110001\149.png 337 204 464 366
+./aligned_img\18110001\15 - Copy.png 305 209 442 378
+./aligned_img\18110001\15.png 305 209 442 378
+./aligned_img\18110001\150 - Copy.png 338 202 468 368
+./aligned_img\18110001\150.png 338 202 468 368
+./aligned_img\18110001\151 - Copy.png 339 201 469 371
+./aligned_img\18110001\151.png 339 201 469 371
+./aligned_img\18110001\152 - Copy.png 338 202 468 372
+./aligned_img\18110001\152.png 338 202 468 372
+./aligned_img\18110001\153 - Copy.png 344 207 469 369
+./aligned_img\18110001\153.png 344 207 469 369
+./aligned_img\18110001\154 - Copy.png 343 204 469 370
+./aligned_img\18110001\154.png 343 204 469 370
+./aligned_img\18110001\155 - Copy.png 345 202 469 368
+./aligned_img\18110001\155.png 345 202 469 368
+./aligned_img\18110001\156 - Copy.png 343 203 470 371
+./aligned_img\18110001\156.png 343 203 470 371
+./aligned_img\18110001\157 - Copy.png 347 207 471 367
+./aligned_img\18110001\157.png 347 207 471 367
+./aligned_img\18110001\158 - Copy.png 344 204 470 368
+./aligned_img\18110001\158.png 344 204 470 368
+./aligned_img\18110001\159 - Copy.png 345 204 472 370
+./aligned_img\18110001\159.png 345 204 472 370
+./aligned_img\18110001\16 - Copy.png 304 210 440 377
+./aligned_img\18110001\16.png 304 210 440 377
+./aligned_img\18110001\160 - Copy.png 343 206 469 368
+./aligned_img\18110001\160.png 343 206 469 368
+./aligned_img\18110001\161 - Copy.png 343 202 468 367
+./aligned_img\18110001\161.png 343 202 468 367
+./aligned_img\18110001\162 - Copy.png 344 204 465 361
+./aligned_img\18110001\162.png 344 204 465 361
+./aligned_img\18110001\163 - Copy.png 336 198 472 371
+./aligned_img\18110001\163.png 336 198 472 371
+./aligned_img\18110001\164 - Copy.png 336 202 466 365
+./aligned_img\18110001\164.png 336 202 466 365
+./aligned_img\18110001\165 - Copy.png 335 206 462 364
+./aligned_img\18110001\165.png 335 206 462 364
+./aligned_img\18110001\166 - Copy.png 331 207 461 368
+./aligned_img\18110001\166.png 331 207 461 368
+./aligned_img\18110001\167 - Copy.png 326 207 458 371
+./aligned_img\18110001\167.png 326 207 458 371
+./aligned_img\18110001\168 - Copy.png 325 206 459 371
+./aligned_img\18110001\168.png 325 206 459 371
+./aligned_img\18110001\169 - Copy.png 320 208 452 372
+./aligned_img\18110001\169.png 320 208 452 372
+./aligned_img\18110001\17 - Copy.png 302 208 443 380
+./aligned_img\18110001\17.png 302 208 443 380
+./aligned_img\18110001\170 - Copy.png 316 202 457 378
+./aligned_img\18110001\170.png 316 202 457 378
+./aligned_img\18110001\171 - Copy.png 317 204 454 373
+./aligned_img\18110001\171.png 317 204 454 373
+./aligned_img\18110001\172 - Copy.png 313 208 452 382
+./aligned_img\18110001\172.png 313 208 452 382
+./aligned_img\18110001\173 - Copy.png 310 203 452 378
+./aligned_img\18110001\173.png 310 203 452 378
+./aligned_img\18110001\174 - Copy.png 310 207 451 381
+./aligned_img\18110001\174.png 310 207 451 381
+./aligned_img\18110001\175 - Copy.png 310 204 451 377
+./aligned_img\18110001\175.png 310 204 451 377
+./aligned_img\18110001\176 - Copy.png 306 207 450 383
+./aligned_img\18110001\176.png 306 207 450 383
+./aligned_img\18110001\177 - Copy.png 308 205 449 377
+./aligned_img\18110001\177.png 308 205 449 377
+./aligned_img\18110001\178 - Copy.png 307 207 446 375
+./aligned_img\18110001\178.png 307 207 446 375
+./aligned_img\18110001\179 - Copy.png 304 208 443 374
+./aligned_img\18110001\179.png 304 208 443 374
+./aligned_img\18110001\18 - Copy.png 301 209 445 383
+./aligned_img\18110001\18.png 301 209 445 383
+./aligned_img\18110001\180 - Copy.png 302 208 442 374
+./aligned_img\18110001\180.png 302 208 442 374
+./aligned_img\18110001\181 - Copy.png 298 213 434 376
+./aligned_img\18110001\181.png 298 213 434 376
+./aligned_img\18110001\182 - Copy.png 294 214 426 371
+./aligned_img\18110001\182.png 294 214 426 371
+./aligned_img\18110001\183 - Copy.png 292 216 418 368
+./aligned_img\18110001\183.png 292 216 418 368
+./aligned_img\18110001\184 - Copy.png 287 211 416 370
+./aligned_img\18110001\184.png 287 211 416 370
+./aligned_img\18110001\185 - Copy.png 279 211 411 369
+./aligned_img\18110001\185.png 279 211 411 369
+./aligned_img\18110001\186 - Copy.png 275 208 408 372
+./aligned_img\18110001\186.png 275 208 408 372
+./aligned_img\18110001\187 - Copy.png 271 203 407 377
+./aligned_img\18110001\187.png 271 203 407 377
+./aligned_img\18110001\188 - Copy.png 277 210 405 369
+./aligned_img\18110001\188.png 277 210 405 369
+./aligned_img\18110001\189 - Copy.png 271 208 402 373
+./aligned_img\18110001\189.png 271 208 402 373
+./aligned_img\18110001\19 - Copy.png 299 210 443 384
+./aligned_img\18110001\19.png 299 210 443 384
+./aligned_img\18110001\190 - Copy.png 275 211 401 369
+./aligned_img\18110001\190.png 275 211 401 369
+./aligned_img\18110001\191 - Copy.png 268 208 401 376
+./aligned_img\18110001\191.png 268 208 401 376
+./aligned_img\18110001\192 - Copy.png 271 208 403 376
+./aligned_img\18110001\192.png 271 208 403 376
+./aligned_img\18110001\193 - Copy.png 270 209 401 373
+./aligned_img\18110001\193.png 270 209 401 373
+./aligned_img\18110001\194 - Copy.png 271 210 402 375
+./aligned_img\18110001\194.png 271 210 402 375
+./aligned_img\18110001\195 - Copy.png 272 209 403 374
+./aligned_img\18110001\195.png 272 209 403 374
+./aligned_img\18110001\196 - Copy.png 273 209 404 372
+./aligned_img\18110001\196.png 273 209 404 372
+./aligned_img\18110001\197 - Copy.png 276 213 404 371
+./aligned_img\18110001\197.png 276 213 404 371
+./aligned_img\18110001\198 - Copy.png 275 206 408 374
+./aligned_img\18110001\198.png 275 206 408 374
+./aligned_img\18110001\199 - Copy.png 283 210 415 375
+./aligned_img\18110001\199.png 283 210 415 375
+./aligned_img\18110001\2 - Copy.png 306 207 443 373
+./aligned_img\18110001\2.png 306 207 443 373
+./aligned_img\18110001\20 - Copy.png 301 212 442 382
+./aligned_img\18110001\20.png 301 212 442 382
+./aligned_img\18110001\200 - Copy.png 286 211 418 375
+./aligned_img\18110001\200.png 286 211 418 375
+./aligned_img\18110001\201 - Copy.png 290 214 418 377
+./aligned_img\18110001\201.png 290 214 418 377
+./aligned_img\18110001\202 - Copy.png 287 220 415 373
+./aligned_img\18110001\202.png 287 220 415 373
+./aligned_img\18110001\203 - Copy.png 288 215 423 379
+./aligned_img\18110001\203.png 288 215 423 379
+./aligned_img\18110001\204 - Copy.png 288 215 426 382
+./aligned_img\18110001\204.png 288 215 426 382
+./aligned_img\18110001\205 - Copy.png 290 212 424 377
+./aligned_img\18110001\205.png 290 212 424 377
+./aligned_img\18110001\206 - Copy.png 288 212 429 381
+./aligned_img\18110001\206.png 288 212 429 381
+./aligned_img\18110001\207 - Copy.png 289 212 428 381
+./aligned_img\18110001\207.png 289 212 428 381
+./aligned_img\18110001\208 - Copy.png 290 210 430 383
+./aligned_img\18110001\208.png 290 210 430 383
+./aligned_img\18110001\209 - Copy.png 292 208 430 379
+./aligned_img\18110001\209.png 292 208 430 379
+./aligned_img\18110001\21 - Copy.png 300 210 441 384
+./aligned_img\18110001\21.png 300 210 441 384
+./aligned_img\18110001\210 - Copy.png 292 210 433 384
+./aligned_img\18110001\210.png 292 210 433 384
+./aligned_img\18110001\211 - Copy.png 290 209 433 385
+./aligned_img\18110001\211.png 290 209 433 385
+./aligned_img\18110001\212 - Copy.png 292 211 433 387
+./aligned_img\18110001\212.png 292 211 433 387
+./aligned_img\18110001\213 - Copy.png 294 211 434 382
+./aligned_img\18110001\213.png 294 211 434 382
+./aligned_img\18110001\214 - Copy.png 294 212 432 382
+./aligned_img\18110001\214.png 294 212 432 382
+./aligned_img\18110001\215 - Copy.png 295 211 434 384
+./aligned_img\18110001\215.png 295 211 434 384
+./aligned_img\18110001\216 - Copy.png 293 212 433 383
+./aligned_img\18110001\216.png 293 212 433 383
+./aligned_img\18110001\217 - Copy.png 293 211 430 383
+./aligned_img\18110001\217.png 293 211 430 383
+./aligned_img\18110001\218 - Copy.png 294 213 432 382
+./aligned_img\18110001\218.png 294 213 432 382
+./aligned_img\18110001\219 - Copy.png 293 210 434 384
+./aligned_img\18110001\219.png 293 210 434 384
+./aligned_img\18110001\22 - Copy.png 299 212 440 382
+./aligned_img\18110001\22.png 299 212 440 382
+./aligned_img\18110001\220 - Copy.png 285 208 434 391
+./aligned_img\18110001\220.png 285 208 434 391
+./aligned_img\18110001\221 - Copy.png 292 209 434 384
+./aligned_img\18110001\221.png 292 209 434 384
+./aligned_img\18110001\222 - Copy.png 293 210 433 382
+./aligned_img\18110001\222.png 293 210 433 382
+./aligned_img\18110001\223 - Copy.png 292 211 432 384
+./aligned_img\18110001\223.png 292 211 432 384
+./aligned_img\18110001\224 - Copy.png 294 209 434 384
+./aligned_img\18110001\224.png 294 209 434 384
+./aligned_img\18110001\225 - Copy.png 294 213 434 383
+./aligned_img\18110001\225.png 294 213 434 383
+./aligned_img\18110001\226 - Copy.png 292 211 433 383
+./aligned_img\18110001\226.png 292 211 433 383
+./aligned_img\18110001\227 - Copy.png 291 210 432 383
+./aligned_img\18110001\227.png 291 210 432 383
+./aligned_img\18110001\228 - Copy.png 293 212 431 386
+./aligned_img\18110001\228.png 293 212 431 386
+./aligned_img\18110001\229 - Copy.png 293 213 430 384
+./aligned_img\18110001\229.png 293 213 430 384
+./aligned_img\18110001\23 - Copy.png 298 211 441 386
+./aligned_img\18110001\23.png 298 211 441 386
+./aligned_img\18110001\230 - Copy.png 293 212 432 383
+./aligned_img\18110001\230.png 293 212 432 383
+./aligned_img\18110001\231 - Copy.png 292 213 431 384
+./aligned_img\18110001\231.png 292 213 431 384
+./aligned_img\18110001\232 - Copy.png 295 211 432 383
+./aligned_img\18110001\232.png 295 211 432 383
+./aligned_img\18110001\233 - Copy.png 293 211 434 384
+./aligned_img\18110001\233.png 293 211 434 384
+./aligned_img\18110001\234 - Copy.png 294 210 436 384
+./aligned_img\18110001\234.png 294 210 436 384
+./aligned_img\18110001\235 - Copy.png 296 210 437 386
+./aligned_img\18110001\235.png 296 210 437 386
+./aligned_img\18110001\236 - Copy.png 297 212 438 386
+./aligned_img\18110001\236.png 297 212 438 386
+./aligned_img\18110001\237 - Copy.png 297 209 439 387
+./aligned_img\18110001\237.png 297 209 439 387
+./aligned_img\18110001\238 - Copy.png 295 209 439 384
+./aligned_img\18110001\238.png 295 209 439 384
+./aligned_img\18110001\239 - Copy.png 297 212 435 383
+./aligned_img\18110001\239.png 297 212 435 383
+./aligned_img\18110001\24 - Copy.png 298 210 444 387
+./aligned_img\18110001\24.png 298 210 444 387
+./aligned_img\18110001\240 - Copy.png 299 212 437 382
+./aligned_img\18110001\240.png 299 212 437 382
+./aligned_img\18110001\241 - Copy.png 299 208 440 382
+./aligned_img\18110001\241.png 299 208 440 382
+./aligned_img\18110001\242 - Copy.png 300 209 442 381
+./aligned_img\18110001\242.png 300 209 442 381
+./aligned_img\18110001\243 - Copy.png 300 210 441 379
+./aligned_img\18110001\243.png 300 210 441 379
+./aligned_img\18110001\244 - Copy.png 299 208 442 384
+./aligned_img\18110001\244.png 299 208 442 384
+./aligned_img\18110001\245 - Copy.png 300 208 440 383
+./aligned_img\18110001\245.png 300 208 440 383
+./aligned_img\18110001\246 - Copy.png 300 209 440 382
+./aligned_img\18110001\246.png 300 209 440 382
+./aligned_img\18110001\247 - Copy.png 300 208 440 382
+./aligned_img\18110001\247.png 300 208 440 382
+./aligned_img\18110001\248 - Copy.png 297 208 439 385
+./aligned_img\18110001\248.png 297 208 439 385
+./aligned_img\18110001\249 - Copy.png 299 208 440 382
+./aligned_img\18110001\249.png 299 208 440 382
+./aligned_img\18110001\25 - Copy.png 300 212 442 385
+./aligned_img\18110001\25.png 300 212 442 385
+./aligned_img\18110001\250 - Copy.png 296 207 442 389
+./aligned_img\18110001\250.png 296 207 442 389
+./aligned_img\18110001\26 - Copy.png 298 213 440 387
+./aligned_img\18110001\26.png 298 213 440 387
+./aligned_img\18110001\27 - Copy.png 297 213 439 387
+./aligned_img\18110001\27.png 297 213 439 387
+./aligned_img\18110001\28 - Copy.png 295 213 440 390
+./aligned_img\18110001\28.png 295 213 440 390
+./aligned_img\18110001\29 - Copy.png 299 215 439 387
+./aligned_img\18110001\29.png 299 215 439 387
+./aligned_img\18110001\3 - Copy.png 302 204 444 381
+./aligned_img\18110001\3.png 302 204 444 381
+./aligned_img\18110001\30 - Copy.png 297 213 442 389
+./aligned_img\18110001\30.png 297 213 442 389
+./aligned_img\18110001\31 - Copy.png 296 211 441 390
+./aligned_img\18110001\31.png 296 211 441 390
+./aligned_img\18110001\32 - Copy.png 299 210 441 387
+./aligned_img\18110001\32.png 299 210 441 387
+./aligned_img\18110001\33 - Copy.png 298 212 441 388
+./aligned_img\18110001\33.png 298 212 441 388
+./aligned_img\18110001\34 - Copy.png 298 213 442 386
+./aligned_img\18110001\34.png 298 213 442 386
+./aligned_img\18110001\35 - Copy.png 300 210 445 388
+./aligned_img\18110001\35.png 300 210 445 388
+./aligned_img\18110001\36 - Copy.png 300 212 442 386
+./aligned_img\18110001\36.png 300 212 442 386
+./aligned_img\18110001\37 - Copy.png 297 210 443 388
+./aligned_img\18110001\37.png 297 210 443 388
+./aligned_img\18110001\38 - Copy.png 303 214 439 384
+./aligned_img\18110001\38.png 303 214 439 384
+./aligned_img\18110001\39 - Copy.png 303 214 441 388
+./aligned_img\18110001\39.png 303 214 441 388
+./aligned_img\18110001\4 - Copy.png 304 202 445 375
+./aligned_img\18110001\4.png 304 202 445 375
+./aligned_img\18110001\40 - Copy.png 303 217 439 386
+./aligned_img\18110001\40.png 303 217 439 386
+./aligned_img\18110001\41 - Copy.png 300 212 440 387
+./aligned_img\18110001\41.png 300 212 440 387
+./aligned_img\18110001\42 - Copy.png 298 209 440 388
+./aligned_img\18110001\42.png 298 209 440 388
+./aligned_img\18110001\43 - Copy.png 303 215 442 390
+./aligned_img\18110001\43.png 303 215 442 390
+./aligned_img\18110001\44 - Copy.png 300 210 442 389
+./aligned_img\18110001\44.png 300 210 442 389
+./aligned_img\18110001\45 - Copy.png 301 217 442 388
+./aligned_img\18110001\45.png 301 217 442 388
+./aligned_img\18110001\46 - Copy.png 300 216 436 388
+./aligned_img\18110001\46.png 300 216 436 388
+./aligned_img\18110001\47 - Copy.png 297 209 438 388
+./aligned_img\18110001\47.png 297 209 438 388
+./aligned_img\18110001\48 - Copy.png 298 210 439 388
+./aligned_img\18110001\48.png 298 210 439 388
+./aligned_img\18110001\49 - Copy.png 302 214 447 393
+./aligned_img\18110001\49.png 302 214 447 393
+./aligned_img\18110001\5 - Copy.png 299 198 449 381
+./aligned_img\18110001\5.png 299 198 449 381
+./aligned_img\18110001\50 - Copy.png 302 219 440 390
+./aligned_img\18110001\50.png 302 219 440 390
+./aligned_img\18110001\51 - Copy.png 297 217 442 398
+./aligned_img\18110001\51.png 297 217 442 398
+./aligned_img\18110001\52 - Copy.png 303 213 443 389
+./aligned_img\18110001\52.png 303 213 443 389
+./aligned_img\18110001\53 - Copy.png 300 219 441 391
+./aligned_img\18110001\53.png 300 219 441 391
+./aligned_img\18110001\54 - Copy.png 300 217 442 392
+./aligned_img\18110001\54.png 300 217 442 392
+./aligned_img\18110001\55 - Copy.png 299 219 443 397
+./aligned_img\18110001\55.png 299 219 443 397
+./aligned_img\18110001\56 - Copy.png 303 223 440 394
+./aligned_img\18110001\56.png 303 223 440 394
+./aligned_img\18110001\57 - Copy.png 301 221 440 395
+./aligned_img\18110001\57.png 301 221 440 395
+./aligned_img\18110001\58 - Copy.png 298 220 442 401
+./aligned_img\18110001\58.png 298 220 442 401
+./aligned_img\18110001\59 - Copy.png 300 218 442 396
+./aligned_img\18110001\59.png 300 218 442 396
+./aligned_img\18110001\6 - Copy.png 310 204 446 373
+./aligned_img\18110001\6.png 310 204 446 373
+./aligned_img\18110001\60 - Copy.png 299 218 442 398
+./aligned_img\18110001\60.png 299 218 442 398
+./aligned_img\18110001\61 - Copy.png 299 219 439 393
+./aligned_img\18110001\61.png 299 219 439 393
+./aligned_img\18110001\62 - Copy.png 301 223 440 398
+./aligned_img\18110001\62.png 301 223 440 398
+./aligned_img\18110001\63 - Copy.png 302 223 438 397
+./aligned_img\18110001\63.png 302 223 438 397
+./aligned_img\18110001\64 - Copy.png 300 225 435 385
+./aligned_img\18110001\64.png 300 225 435 385
+./aligned_img\18110001\65 - Copy.png 298 224 433 386
+./aligned_img\18110001\65.png 298 224 433 386
+./aligned_img\18110001\66 - Copy.png 300 225 432 385
+./aligned_img\18110001\66.png 300 225 432 385
+./aligned_img\18110001\67 - Copy.png 301 234 430 393
+./aligned_img\18110001\67.png 301 234 430 393
+./aligned_img\18110001\68 - Copy.png 303 225 433 379
+./aligned_img\18110001\68.png 303 225 433 379
+./aligned_img\18110001\69 - Copy.png 306 228 433 380
+./aligned_img\18110001\69.png 306 228 433 380
+./aligned_img\18110001\7 - Copy.png 305 201 443 374
+./aligned_img\18110001\7.png 305 201 443 374
+./aligned_img\18110001\70 - Copy.png 294 219 436 389
+./aligned_img\18110001\70.png 294 219 436 389
+./aligned_img\18110001\71 - Copy.png 295 229 427 385
+./aligned_img\18110001\71.png 295 229 427 385
+./aligned_img\18110001\72 - Copy.png 301 224 441 397
+./aligned_img\18110001\72.png 301 224 441 397
+./aligned_img\18110001\73 - Copy.png 306 223 440 390
+./aligned_img\18110001\73.png 306 223 440 390
+./aligned_img\18110001\74 - Copy.png 300 218 439 393
+./aligned_img\18110001\74.png 300 218 439 393
+./aligned_img\18110001\75 - Copy.png 297 215 433 391
+./aligned_img\18110001\75.png 297 215 433 391
+./aligned_img\18110001\76 - Copy.png 293 220 431 392
+./aligned_img\18110001\76.png 293 220 431 392
+./aligned_img\18110001\77 - Copy.png 292 216 435 391
+./aligned_img\18110001\77.png 292 216 435 391
+./aligned_img\18110001\78 - Copy.png 295 214 435 392
+./aligned_img\18110001\78.png 295 214 435 392
+./aligned_img\18110001\79 - Copy.png 287 213 436 395
+./aligned_img\18110001\79.png 287 213 436 395
+./aligned_img\18110001\8 - Copy.png 305 206 444 378
+./aligned_img\18110001\8.png 305 206 444 378
+./aligned_img\18110001\80 - Copy.png 293 214 435 389
+./aligned_img\18110001\80.png 293 214 435 389
+./aligned_img\18110001\81 - Copy.png 285 210 438 397
+./aligned_img\18110001\81.png 285 210 438 397
+./aligned_img\18110001\82 - Copy.png 298 212 437 388
+./aligned_img\18110001\82.png 298 212 437 388
+./aligned_img\18110001\83 - Copy.png 284 205 442 400
+./aligned_img\18110001\83.png 284 205 442 400
+./aligned_img\18110001\84 - Copy.png 299 215 435 385
+./aligned_img\18110001\84.png 299 215 435 385
+./aligned_img\18110001\85 - Copy.png 297 210 438 388
+./aligned_img\18110001\85.png 297 210 438 388
+./aligned_img\18110001\86 - Copy.png 298 210 438 385
+./aligned_img\18110001\86.png 298 210 438 385
+./aligned_img\18110001\87 - Copy.png 299 210 438 382
+./aligned_img\18110001\87.png 299 210 438 382
+./aligned_img\18110001\88 - Copy.png 300 208 438 381
+./aligned_img\18110001\88.png 300 208 438 381
+./aligned_img\18110001\89 - Copy.png 300 209 440 382
+./aligned_img\18110001\89.png 300 209 440 382
+./aligned_img\18110001\9 - Copy.png 303 204 446 378
+./aligned_img\18110001\9.png 303 204 446 378
+./aligned_img\18110001\90 - Copy.png 297 206 441 385
+./aligned_img\18110001\90.png 297 206 441 385
+./aligned_img\18110001\91 - Copy.png 296 206 438 384
+./aligned_img\18110001\91.png 296 206 438 384
+./aligned_img\18110001\92 - Copy.png 300 209 440 382
+./aligned_img\18110001\92.png 300 209 440 382
+./aligned_img\18110001\93 - Copy.png 300 208 439 381
+./aligned_img\18110001\93.png 300 208 439 381
+./aligned_img\18110001\94 - Copy.png 300 206 442 378
+./aligned_img\18110001\94.png 300 206 442 378
+./aligned_img\18110001\95 - Copy.png 303 207 439 376
+./aligned_img\18110001\95.png 303 207 439 376
+./aligned_img\18110001\96 - Copy.png 298 206 436 374
+./aligned_img\18110001\96.png 298 206 436 374
+./aligned_img\18110001\97 - Copy.png 303 203 437 367
+./aligned_img\18110001\97.png 303 203 437 367
+./aligned_img\18110001\98 - Copy.png 301 199 437 361
+./aligned_img\18110001\98.png 301 199 437 361
+./aligned_img\18110001\99 - Copy.png 301 199 437 357
+./aligned_img\18110001\99.png 301 199 437 357
+./aligned_img\18110002\1 - Copy.png 266 244 381 384
+./aligned_img\18110002\1.png 266 244 381 384
+./aligned_img\18110002\10 - Copy.png 265 241 381 383
+./aligned_img\18110002\10.png 265 241 381 383
+./aligned_img\18110002\100 - Copy.png 347 228 450 348
+./aligned_img\18110002\100.png 347 228 450 348
+./aligned_img\18110002\101 - Copy.png 347 228 450 348
+./aligned_img\18110002\101.png 347 228 450 348
+./aligned_img\18110002\102 - Copy.png 347 230 450 349
+./aligned_img\18110002\102.png 347 230 450 349
+./aligned_img\18110002\103 - Copy.png 348 229 450 349
+./aligned_img\18110002\103.png 348 229 450 349
+./aligned_img\18110002\104 - Copy.png 348 229 450 349
+./aligned_img\18110002\104.png 348 229 450 349
+./aligned_img\18110002\105 - Copy.png 347 229 450 349
+./aligned_img\18110002\105.png 347 229 450 349
+./aligned_img\18110002\106 - Copy.png 347 229 450 349
+./aligned_img\18110002\106.png 347 229 450 349
+./aligned_img\18110002\107 - Copy.png 351 228 452 351
+./aligned_img\18110002\107.png 351 228 452 351
+./aligned_img\18110002\108 - Copy.png 351 228 452 351
+./aligned_img\18110002\108.png 351 228 452 351
+./aligned_img\18110002\109 - Copy.png 348 230 451 351
+./aligned_img\18110002\109.png 348 230 451 351
+./aligned_img\18110002\11 - Copy.png 265 241 381 383
+./aligned_img\18110002\11.png 265 241 381 383
+./aligned_img\18110002\110 - Copy.png 348 228 451 351
+./aligned_img\18110002\110.png 348 228 451 351
+./aligned_img\18110002\111 - Copy.png 353 231 454 353
+./aligned_img\18110002\111.png 353 231 454 353
+./aligned_img\18110002\112 - Copy.png 353 231 454 353
+./aligned_img\18110002\112.png 353 231 454 353
+./aligned_img\18110002\113 - Copy.png 350 231 453 356
+./aligned_img\18110002\113.png 350 231 453 356
+./aligned_img\18110002\114 - Copy.png 350 233 453 359
+./aligned_img\18110002\114.png 350 233 453 359
+./aligned_img\18110002\115 - Copy.png 350 233 453 359
+./aligned_img\18110002\115.png 350 233 453 359
+./aligned_img\18110002\116 - Copy.png 350 236 455 363
+./aligned_img\18110002\116.png 350 236 455 363
+./aligned_img\18110002\117 - Copy.png 351 237 455 364
+./aligned_img\18110002\117.png 351 237 455 364
+./aligned_img\18110002\118 - Copy.png 352 242 457 370
+./aligned_img\18110002\118.png 352 242 457 370
+./aligned_img\18110002\119 - Copy.png 352 242 457 370
+./aligned_img\18110002\119.png 352 242 457 370
+./aligned_img\18110002\12 - Copy.png 264 240 383 384
+./aligned_img\18110002\12.png 264 240 383 384
+./aligned_img\18110002\120 - Copy.png 351 244 460 375
+./aligned_img\18110002\120.png 351 244 460 375
+./aligned_img\18110002\121 - Copy.png 351 246 461 378
+./aligned_img\18110002\121.png 351 246 461 378
+./aligned_img\18110002\122 - Copy.png 351 246 461 378
+./aligned_img\18110002\122.png 351 246 461 378
+./aligned_img\18110002\123 - Copy.png 352 248 461 380
+./aligned_img\18110002\123.png 352 248 461 380
+./aligned_img\18110002\124 - Copy.png 352 251 462 382
+./aligned_img\18110002\124.png 352 251 462 382
+./aligned_img\18110002\125 - Copy.png 352 251 462 384
+./aligned_img\18110002\125.png 352 251 462 384
+./aligned_img\18110002\126 - Copy.png 351 252 462 385
+./aligned_img\18110002\126.png 351 252 462 385
+./aligned_img\18110002\127 - Copy.png 351 254 461 385
+./aligned_img\18110002\127.png 351 254 461 385
+./aligned_img\18110002\128 - Copy.png 351 254 462 387
+./aligned_img\18110002\128.png 351 254 462 387
+./aligned_img\18110002\129 - Copy.png 351 254 462 387
+./aligned_img\18110002\129.png 351 254 462 387
+./aligned_img\18110002\13 - Copy.png 265 242 379 382
+./aligned_img\18110002\13.png 265 242 379 382
+./aligned_img\18110002\130 - Copy.png 350 254 462 387
+./aligned_img\18110002\130.png 350 254 462 387
+./aligned_img\18110002\131 - Copy.png 350 254 463 386
+./aligned_img\18110002\131.png 350 254 463 386
+./aligned_img\18110002\132 - Copy.png 350 254 463 386
+./aligned_img\18110002\132.png 350 254 463 386
+./aligned_img\18110002\133 - Copy.png 353 255 464 387
+./aligned_img\18110002\133.png 353 255 464 387
+./aligned_img\18110002\134 - Copy.png 357 256 468 387
+./aligned_img\18110002\134.png 357 256 468 387
+./aligned_img\18110002\135 - Copy.png 357 256 468 387
+./aligned_img\18110002\135.png 357 256 468 387
+./aligned_img\18110002\136 - Copy.png 363 258 473 388
+./aligned_img\18110002\136.png 363 258 473 388
+./aligned_img\18110002\137 - Copy.png 371 251 485 389
+./aligned_img\18110002\137.png 371 251 485 389
+./aligned_img\18110002\138 - Copy.png 371 251 485 389
+./aligned_img\18110002\138.png 371 251 485 389
+./aligned_img\18110002\139 - Copy.png 373 252 483 388
+./aligned_img\18110002\139.png 373 252 483 388
+./aligned_img\18110002\14 - Copy.png 265 242 379 382
+./aligned_img\18110002\14.png 265 242 379 382
+./aligned_img\18110002\140 - Copy.png 374 254 483 389
+./aligned_img\18110002\140.png 374 254 483 389
+./aligned_img\18110002\141 - Copy.png 374 254 483 389
+./aligned_img\18110002\141.png 374 254 483 389
+./aligned_img\18110002\142 - Copy.png 373 253 484 391
+./aligned_img\18110002\142.png 373 253 484 391
+./aligned_img\18110002\143 - Copy.png 373 253 484 391
+./aligned_img\18110002\143.png 373 253 484 391
+./aligned_img\18110002\144 - Copy.png 369 253 480 390
+./aligned_img\18110002\144.png 369 253 480 390
+./aligned_img\18110002\145 - Copy.png 369 253 480 390
+./aligned_img\18110002\145.png 369 253 480 390
+./aligned_img\18110002\146 - Copy.png 363 253 473 387
+./aligned_img\18110002\146.png 363 253 473 387
+./aligned_img\18110002\147 - Copy.png 354 252 466 384
+./aligned_img\18110002\147.png 354 252 466 384
+./aligned_img\18110002\148 - Copy.png 354 252 466 384
+./aligned_img\18110002\148.png 354 252 466 384
+./aligned_img\18110002\149 - Copy.png 344 251 457 382
+./aligned_img\18110002\149.png 344 251 457 382
+./aligned_img\18110002\15 - Copy.png 266 242 378 382
+./aligned_img\18110002\15.png 266 242 378 382
+./aligned_img\18110002\150 - Copy.png 336 249 445 379
+./aligned_img\18110002\150.png 336 249 445 379
+./aligned_img\18110002\151 - Copy.png 336 249 445 379
+./aligned_img\18110002\151.png 336 249 445 379
+./aligned_img\18110002\152 - Copy.png 327 247 434 377
+./aligned_img\18110002\152.png 327 247 434 377
+./aligned_img\18110002\153 - Copy.png 321 244 430 376
+./aligned_img\18110002\153.png 321 244 430 376
+./aligned_img\18110002\154 - Copy.png 312 245 422 375
+./aligned_img\18110002\154.png 312 245 422 375
+./aligned_img\18110002\155 - Copy.png 306 245 415 374
+./aligned_img\18110002\155.png 306 245 415 374
+./aligned_img\18110002\156 - Copy.png 303 243 409 374
+./aligned_img\18110002\156.png 303 243 409 374
+./aligned_img\18110002\157 - Copy.png 303 243 409 374
+./aligned_img\18110002\157.png 303 243 409 374
+./aligned_img\18110002\158 - Copy.png 298 243 406 374
+./aligned_img\18110002\158.png 298 243 406 374
+./aligned_img\18110002\159 - Copy.png 297 244 404 372
+./aligned_img\18110002\159.png 297 244 404 372
+./aligned_img\18110002\16 - Copy.png 265 241 383 386
+./aligned_img\18110002\16.png 265 241 383 386
+./aligned_img\18110002\160 - Copy.png 297 244 404 372
+./aligned_img\18110002\160.png 297 244 404 372
+./aligned_img\18110002\161 - Copy.png 295 243 403 374
+./aligned_img\18110002\161.png 295 243 403 374
+./aligned_img\18110002\162 - Copy.png 293 242 401 375
+./aligned_img\18110002\162.png 293 242 401 375
+./aligned_img\18110002\163 - Copy.png 293 242 401 375
+./aligned_img\18110002\163.png 293 242 401 375
+./aligned_img\18110002\164 - Copy.png 293 244 401 375
+./aligned_img\18110002\164.png 293 244 401 375
+./aligned_img\18110002\165 - Copy.png 294 242 403 374
+./aligned_img\18110002\165.png 294 242 403 374
+./aligned_img\18110002\166 - Copy.png 296 243 402 371
+./aligned_img\18110002\166.png 296 243 402 371
+./aligned_img\18110002\167 - Copy.png 296 243 402 371
+./aligned_img\18110002\167.png 296 243 402 371
+./aligned_img\18110002\168 - Copy.png 296 238 405 373
+./aligned_img\18110002\168.png 296 238 405 373
+./aligned_img\18110002\169 - Copy.png 299 237 410 369
+./aligned_img\18110002\169.png 299 237 410 369
+./aligned_img\18110002\17 - Copy.png 264 240 377 383
+./aligned_img\18110002\17.png 264 240 377 383
+./aligned_img\18110002\170 - Copy.png 299 237 410 369
+./aligned_img\18110002\170.png 299 237 410 369
+./aligned_img\18110002\171 - Copy.png 303 237 413 369
+./aligned_img\18110002\171.png 303 237 413 369
+./aligned_img\18110002\172 - Copy.png 303 237 413 369
+./aligned_img\18110002\172.png 303 237 413 369
+./aligned_img\18110002\173 - Copy.png 307 237 415 368
+./aligned_img\18110002\173.png 307 237 415 368
+./aligned_img\18110002\174 - Copy.png 307 237 415 368
+./aligned_img\18110002\174.png 307 237 415 368
+./aligned_img\18110002\175 - Copy.png 309 237 418 370
+./aligned_img\18110002\175.png 309 237 418 370
+./aligned_img\18110002\176 - Copy.png 309 237 418 370
+./aligned_img\18110002\176.png 309 237 418 370
+./aligned_img\18110002\177 - Copy.png 309 237 417 369
+./aligned_img\18110002\177.png 309 237 417 369
+./aligned_img\18110002\178 - Copy.png 309 237 418 369
+./aligned_img\18110002\178.png 309 237 418 369
+./aligned_img\18110002\179 - Copy.png 309 237 418 369
+./aligned_img\18110002\179.png 309 237 418 369
+./aligned_img\18110002\18 - Copy.png 264 240 377 383
+./aligned_img\18110002\18.png 264 240 377 383
+./aligned_img\18110002\180 - Copy.png 310 239 418 369
+./aligned_img\18110002\180.png 310 239 418 369
+./aligned_img\18110002\181 - Copy.png 310 239 418 369
+./aligned_img\18110002\181.png 310 239 418 369
+./aligned_img\18110002\182 - Copy.png 310 238 419 369
+./aligned_img\18110002\182.png 310 238 419 369
+./aligned_img\18110002\183 - Copy.png 310 238 419 369
+./aligned_img\18110002\183.png 310 238 419 369
+./aligned_img\18110002\184 - Copy.png 310 237 418 369
+./aligned_img\18110002\184.png 310 237 418 369
+./aligned_img\18110002\185 - Copy.png 311 237 419 370
+./aligned_img\18110002\185.png 311 237 419 370
+./aligned_img\18110002\186 - Copy.png 311 237 421 371
+./aligned_img\18110002\186.png 311 237 421 371
+./aligned_img\18110002\187 - Copy.png 311 238 419 374
+./aligned_img\18110002\187.png 311 238 419 374
+./aligned_img\18110002\188 - Copy.png 312 236 422 376
+./aligned_img\18110002\188.png 312 236 422 376
+./aligned_img\18110002\189 - Copy.png 311 240 423 377
+./aligned_img\18110002\189.png 311 240 423 377
+./aligned_img\18110002\19 - Copy.png 265 241 381 382
+./aligned_img\18110002\19.png 265 241 381 382
+./aligned_img\18110002\190 - Copy.png 312 237 422 379
+./aligned_img\18110002\190.png 312 237 422 379
+./aligned_img\18110002\191 - Copy.png 312 237 422 379
+./aligned_img\18110002\191.png 312 237 422 379
+./aligned_img\18110002\192 - Copy.png 310 241 423 379
+./aligned_img\18110002\192.png 310 241 423 379
+./aligned_img\18110002\193 - Copy.png 312 239 422 378
+./aligned_img\18110002\193.png 312 239 422 378
+./aligned_img\18110002\194 - Copy.png 312 239 422 378
+./aligned_img\18110002\194.png 312 239 422 378
+./aligned_img\18110002\195 - Copy.png 313 239 422 375
+./aligned_img\18110002\195.png 313 239 422 375
+./aligned_img\18110002\196 - Copy.png 313 241 421 375
+./aligned_img\18110002\196.png 313 241 421 375
+./aligned_img\18110002\197 - Copy.png 312 241 421 374
+./aligned_img\18110002\197.png 312 241 421 374
+./aligned_img\18110002\198 - Copy.png 312 241 421 374
+./aligned_img\18110002\198.png 312 241 421 374
+./aligned_img\18110002\199 - Copy.png 314 241 424 375
+./aligned_img\18110002\199.png 314 241 424 375
+./aligned_img\18110002\2 - Copy.png 266 242 378 378
+./aligned_img\18110002\2.png 266 242 378 378
+./aligned_img\18110002\20 - Copy.png 265 241 381 382
+./aligned_img\18110002\20.png 265 241 381 382
+./aligned_img\18110002\200 - Copy.png 314 241 424 375
+./aligned_img\18110002\200.png 314 241 424 375
+./aligned_img\18110002\201 - Copy.png 313 243 422 377
+./aligned_img\18110002\201.png 313 243 422 377
+./aligned_img\18110002\202 - Copy.png 313 243 422 377
+./aligned_img\18110002\202.png 313 243 422 377
+./aligned_img\18110002\203 - Copy.png 314 243 425 377
+./aligned_img\18110002\203.png 314 243 425 377
+./aligned_img\18110002\204 - Copy.png 314 243 425 377
+./aligned_img\18110002\204.png 314 243 425 377
+./aligned_img\18110002\205 - Copy.png 314 243 426 377
+./aligned_img\18110002\205.png 314 243 426 377
+./aligned_img\18110002\206 - Copy.png 314 243 426 377
+./aligned_img\18110002\206.png 314 243 426 377
+./aligned_img\18110002\207 - Copy.png 314 243 426 377
+./aligned_img\18110002\207.png 314 243 426 377
+./aligned_img\18110002\208 - Copy.png 314 242 425 378
+./aligned_img\18110002\208.png 314 242 425 378
+./aligned_img\18110002\209 - Copy.png 312 240 423 378
+./aligned_img\18110002\209.png 312 240 423 378
+./aligned_img\18110002\21 - Copy.png 264 240 382 382
+./aligned_img\18110002\21.png 264 240 382 382
+./aligned_img\18110002\210 - Copy.png 312 240 423 378
+./aligned_img\18110002\210.png 312 240 423 378
+./aligned_img\18110002\211 - Copy.png 311 240 423 381
+./aligned_img\18110002\211.png 311 240 423 381
+./aligned_img\18110002\212 - Copy.png 311 240 423 381
+./aligned_img\18110002\212.png 311 240 423 381
+./aligned_img\18110002\213 - Copy.png 311 241 420 381
+./aligned_img\18110002\213.png 311 241 420 381
+./aligned_img\18110002\214 - Copy.png 311 241 420 381
+./aligned_img\18110002\214.png 311 241 420 381
+./aligned_img\18110002\215 - Copy.png 310 239 422 384
+./aligned_img\18110002\215.png 310 239 422 384
+./aligned_img\18110002\216 - Copy.png 310 239 422 384
+./aligned_img\18110002\216.png 310 239 422 384
+./aligned_img\18110002\217 - Copy.png 307 237 422 386
+./aligned_img\18110002\217.png 307 237 422 386
+./aligned_img\18110002\218 - Copy.png 307 239 421 385
+./aligned_img\18110002\218.png 307 239 421 385
+./aligned_img\18110002\219 - Copy.png 308 238 421 384
+./aligned_img\18110002\219.png 308 238 421 384
+./aligned_img\18110002\22 - Copy.png 268 241 386 385
+./aligned_img\18110002\22.png 268 241 386 385
+./aligned_img\18110002\220 - Copy.png 308 238 421 384
+./aligned_img\18110002\220.png 308 238 421 384
+./aligned_img\18110002\221 - Copy.png 308 239 419 382
+./aligned_img\18110002\221.png 308 239 419 382
+./aligned_img\18110002\222 - Copy.png 308 239 419 382
+./aligned_img\18110002\222.png 308 239 419 382
+./aligned_img\18110002\223 - Copy.png 308 240 419 382
+./aligned_img\18110002\223.png 308 240 419 382
+./aligned_img\18110002\224 - Copy.png 304 240 414 380
+./aligned_img\18110002\224.png 304 240 414 380
+./aligned_img\18110002\225 - Copy.png 304 240 414 380
+./aligned_img\18110002\225.png 304 240 414 380
+./aligned_img\18110002\226 - Copy.png 302 238 414 378
+./aligned_img\18110002\226.png 302 238 414 378
+./aligned_img\18110002\227 - Copy.png 299 238 408 377
+./aligned_img\18110002\227.png 299 238 408 377
+./aligned_img\18110002\228 - Copy.png 296 239 404 374
+./aligned_img\18110002\228.png 296 239 404 374
+./aligned_img\18110002\229 - Copy.png 295 238 401 374
+./aligned_img\18110002\229.png 295 238 401 374
+./aligned_img\18110002\23 - Copy.png 268 239 384 380
+./aligned_img\18110002\23.png 268 239 384 380
+./aligned_img\18110002\230 - Copy.png 295 238 401 374
+./aligned_img\18110002\230.png 295 238 401 374
+./aligned_img\18110002\231 - Copy.png 294 238 401 373
+./aligned_img\18110002\231.png 294 238 401 373
+./aligned_img\18110002\232 - Copy.png 294 238 401 373
+./aligned_img\18110002\232.png 294 238 401 373
+./aligned_img\18110002\233 - Copy.png 293 238 399 372
+./aligned_img\18110002\233.png 293 238 399 372
+./aligned_img\18110002\234 - Copy.png 293 237 399 373
+./aligned_img\18110002\234.png 293 237 399 373
+./aligned_img\18110002\235 - Copy.png 293 237 399 373
+./aligned_img\18110002\235.png 293 237 399 373
+./aligned_img\18110002\236 - Copy.png 292 238 397 371
+./aligned_img\18110002\236.png 292 238 397 371
+./aligned_img\18110002\237 - Copy.png 292 238 397 371
+./aligned_img\18110002\237.png 292 238 397 371
+./aligned_img\18110002\238 - Copy.png 294 237 399 371
+./aligned_img\18110002\238.png 294 237 399 371
+./aligned_img\18110002\239 - Copy.png 295 238 399 371
+./aligned_img\18110002\239.png 295 238 399 371
+./aligned_img\18110002\24 - Copy.png 268 239 384 380
+./aligned_img\18110002\24.png 268 239 384 380
+./aligned_img\18110002\240 - Copy.png 295 238 399 371
+./aligned_img\18110002\240.png 295 238 399 371
+./aligned_img\18110002\241 - Copy.png 293 239 400 371
+./aligned_img\18110002\241.png 293 239 400 371
+./aligned_img\18110002\242 - Copy.png 295 238 404 372
+./aligned_img\18110002\242.png 295 238 404 372
+./aligned_img\18110002\243 - Copy.png 295 238 404 372
+./aligned_img\18110002\243.png 295 238 404 372
+./aligned_img\18110002\244 - Copy.png 296 237 407 372
+./aligned_img\18110002\244.png 296 237 407 372
+./aligned_img\18110002\245 - Copy.png 296 237 407 372
+./aligned_img\18110002\245.png 296 237 407 372
+./aligned_img\18110002\246 - Copy.png 298 238 409 373
+./aligned_img\18110002\246.png 298 238 409 373
+./aligned_img\18110002\247 - Copy.png 298 238 409 373
+./aligned_img\18110002\247.png 298 238 409 373
+./aligned_img\18110002\248 - Copy.png 300 237 410 375
+./aligned_img\18110002\248.png 300 237 410 375
+./aligned_img\18110002\249 - Copy.png 299 237 413 375
+./aligned_img\18110002\249.png 299 237 413 375
+./aligned_img\18110002\25 - Copy.png 269 239 383 379
+./aligned_img\18110002\25.png 269 239 383 379
+./aligned_img\18110002\250 - Copy.png 304 239 413 376
+./aligned_img\18110002\250.png 304 239 413 376
+./aligned_img\18110002\26 - Copy.png 272 239 384 376
+./aligned_img\18110002\26.png 272 239 384 376
+./aligned_img\18110002\27 - Copy.png 272 239 384 376
+./aligned_img\18110002\27.png 272 239 384 376
+./aligned_img\18110002\28 - Copy.png 276 237 387 372
+./aligned_img\18110002\28.png 276 237 387 372
+./aligned_img\18110002\29 - Copy.png 280 235 391 369
+./aligned_img\18110002\29.png 280 235 391 369
+./aligned_img\18110002\3 - Copy.png 262 240 376 382
+./aligned_img\18110002\3.png 262 240 376 382
+./aligned_img\18110002\30 - Copy.png 285 235 395 367
+./aligned_img\18110002\30.png 285 235 395 367
+./aligned_img\18110002\31 - Copy.png 285 235 395 367
+./aligned_img\18110002\31.png 285 235 395 367
+./aligned_img\18110002\32 - Copy.png 288 230 398 363
+./aligned_img\18110002\32.png 288 230 398 363
+./aligned_img\18110002\33 - Copy.png 288 230 398 363
+./aligned_img\18110002\33.png 288 230 398 363
+./aligned_img\18110002\34 - Copy.png 295 226 405 364
+./aligned_img\18110002\34.png 295 226 405 364
+./aligned_img\18110002\35 - Copy.png 295 226 405 364
+./aligned_img\18110002\35.png 295 226 405 364
+./aligned_img\18110002\36 - Copy.png 306 229 414 364
+./aligned_img\18110002\36.png 306 229 414 364
+./aligned_img\18110002\37 - Copy.png 306 229 414 364
+./aligned_img\18110002\37.png 306 229 414 364
+./aligned_img\18110002\38 - Copy.png 317 232 424 370
+./aligned_img\18110002\38.png 317 232 424 370
+./aligned_img\18110002\39 - Copy.png 317 232 424 370
+./aligned_img\18110002\39.png 317 232 424 370
+./aligned_img\18110002\4 - Copy.png 262 240 376 382
+./aligned_img\18110002\4.png 262 240 376 382
+./aligned_img\18110002\40 - Copy.png 330 227 438 369
+./aligned_img\18110002\40.png 330 227 438 369
+./aligned_img\18110002\41 - Copy.png 344 233 454 374
+./aligned_img\18110002\41.png 344 233 454 374
+./aligned_img\18110002\42 - Copy.png 344 233 454 374
+./aligned_img\18110002\42.png 344 233 454 374
+./aligned_img\18110002\43 - Copy.png 357 237 466 376
+./aligned_img\18110002\43.png 357 237 466 376
+./aligned_img\18110002\44 - Copy.png 357 237 466 376
+./aligned_img\18110002\44.png 357 237 466 376
+./aligned_img\18110002\45 - Copy.png 364 249 476 389
+./aligned_img\18110002\45.png 364 249 476 389
+./aligned_img\18110002\46 - Copy.png 364 249 476 389
+./aligned_img\18110002\46.png 364 249 476 389
+./aligned_img\18110002\47 - Copy.png 372 243 483 387
+./aligned_img\18110002\47.png 372 243 483 387
+./aligned_img\18110002\48 - Copy.png 372 243 483 387
+./aligned_img\18110002\48.png 372 243 483 387
+./aligned_img\18110002\49 - Copy.png 376 250 488 395
+./aligned_img\18110002\49.png 376 250 488 395
+./aligned_img\18110002\5 - Copy.png 263 242 376 384
+./aligned_img\18110002\5.png 263 242 376 384
+./aligned_img\18110002\50 - Copy.png 376 251 489 395
+./aligned_img\18110002\50.png 376 251 489 395
+./aligned_img\18110002\51 - Copy.png 376 253 490 395
+./aligned_img\18110002\51.png 376 253 490 395
+./aligned_img\18110002\52 - Copy.png 376 253 490 395
+./aligned_img\18110002\52.png 376 253 490 395
+./aligned_img\18110002\53 - Copy.png 377 256 488 393
+./aligned_img\18110002\53.png 377 256 488 393
+./aligned_img\18110002\54 - Copy.png 377 256 488 393
+./aligned_img\18110002\54.png 377 256 488 393
+./aligned_img\18110002\55 - Copy.png 376 253 486 387
+./aligned_img\18110002\55.png 376 253 486 387
+./aligned_img\18110002\56 - Copy.png 373 254 484 388
+./aligned_img\18110002\56.png 373 254 484 388
+./aligned_img\18110002\57 - Copy.png 369 259 481 390
+./aligned_img\18110002\57.png 369 259 481 390
+./aligned_img\18110002\58 - Copy.png 369 259 481 390
+./aligned_img\18110002\58.png 369 259 481 390
+./aligned_img\18110002\59 - Copy.png 364 255 477 388
+./aligned_img\18110002\59.png 364 255 477 388
+./aligned_img\18110002\6 - Copy.png 263 242 376 384
+./aligned_img\18110002\6.png 263 242 376 384
+./aligned_img\18110002\60 - Copy.png 359 250 474 384
+./aligned_img\18110002\60.png 359 250 474 384
+./aligned_img\18110002\61 - Copy.png 359 250 474 384
+./aligned_img\18110002\61.png 359 250 474 384
+./aligned_img\18110002\62 - Copy.png 356 245 473 385
+./aligned_img\18110002\62.png 356 245 473 385
+./aligned_img\18110002\63 - Copy.png 356 242 473 383
+./aligned_img\18110002\63.png 356 242 473 383
+./aligned_img\18110002\64 - Copy.png 357 245 472 382
+./aligned_img\18110002\64.png 357 245 472 382
+./aligned_img\18110002\65 - Copy.png 359 246 472 382
+./aligned_img\18110002\65.png 359 246 472 382
+./aligned_img\18110002\66 - Copy.png 359 246 472 382
+./aligned_img\18110002\66.png 359 246 472 382
+./aligned_img\18110002\67 - Copy.png 359 247 472 383
+./aligned_img\18110002\67.png 359 247 472 383
+./aligned_img\18110002\68 - Copy.png 359 247 472 383
+./aligned_img\18110002\68.png 359 247 472 383
+./aligned_img\18110002\69 - Copy.png 363 243 471 383
+./aligned_img\18110002\69.png 363 243 471 383
+./aligned_img\18110002\7 - Copy.png 265 241 380 382
+./aligned_img\18110002\7.png 265 241 380 382
+./aligned_img\18110002\70 - Copy.png 363 243 471 383
+./aligned_img\18110002\70.png 363 243 471 383
+./aligned_img\18110002\71 - Copy.png 357 246 469 381
+./aligned_img\18110002\71.png 357 246 469 381
+./aligned_img\18110002\72 - Copy.png 356 246 468 380
+./aligned_img\18110002\72.png 356 246 468 380
+./aligned_img\18110002\73 - Copy.png 356 246 468 380
+./aligned_img\18110002\73.png 356 246 468 380
+./aligned_img\18110002\74 - Copy.png 359 240 464 375
+./aligned_img\18110002\74.png 359 240 464 375
+./aligned_img\18110002\75 - Copy.png 356 240 465 372
+./aligned_img\18110002\75.png 356 240 465 372
+./aligned_img\18110002\76 - Copy.png 356 240 465 372
+./aligned_img\18110002\76.png 356 240 465 372
+./aligned_img\18110002\77 - Copy.png 357 236 465 367
+./aligned_img\18110002\77.png 357 236 465 367
+./aligned_img\18110002\78 - Copy.png 357 236 465 367
+./aligned_img\18110002\78.png 357 236 465 367
+./aligned_img\18110002\79 - Copy.png 358 233 464 365
+./aligned_img\18110002\79.png 358 233 464 365
+./aligned_img\18110002\8 - Copy.png 266 242 381 383
+./aligned_img\18110002\8.png 266 242 381 383
+./aligned_img\18110002\80 - Copy.png 356 233 461 362
+./aligned_img\18110002\80.png 356 233 461 362
+./aligned_img\18110002\81 - Copy.png 354 232 460 362
+./aligned_img\18110002\81.png 354 232 460 362
+./aligned_img\18110002\82 - Copy.png 354 232 460 362
+./aligned_img\18110002\82.png 354 232 460 362
+./aligned_img\18110002\83 - Copy.png 355 232 461 362
+./aligned_img\18110002\83.png 355 232 461 362
+./aligned_img\18110002\84 - Copy.png 353 233 460 363
+./aligned_img\18110002\84.png 353 233 460 363
+./aligned_img\18110002\85 - Copy.png 353 233 460 363
+./aligned_img\18110002\85.png 353 233 460 363
+./aligned_img\18110002\86 - Copy.png 353 233 460 362
+./aligned_img\18110002\86.png 353 233 460 362
+./aligned_img\18110002\87 - Copy.png 352 232 460 362
+./aligned_img\18110002\87.png 352 232 460 362
+./aligned_img\18110002\88 - Copy.png 354 232 460 362
+./aligned_img\18110002\88.png 354 232 460 362
+./aligned_img\18110002\89 - Copy.png 354 232 460 362
+./aligned_img\18110002\89.png 354 232 460 362
+./aligned_img\18110002\9 - Copy.png 266 240 382 382
+./aligned_img\18110002\9.png 266 240 382 382
+./aligned_img\18110002\90 - Copy.png 353 233 459 362
+./aligned_img\18110002\90.png 353 233 459 362
+./aligned_img\18110002\91 - Copy.png 353 232 457 360
+./aligned_img\18110002\91.png 353 232 457 360
+./aligned_img\18110002\92 - Copy.png 352 231 457 359
+./aligned_img\18110002\92.png 352 231 457 359
+./aligned_img\18110002\93 - Copy.png 350 230 454 357
+./aligned_img\18110002\93.png 350 230 454 357
+./aligned_img\18110002\94 - Copy.png 350 231 454 356
+./aligned_img\18110002\94.png 350 231 454 356
+./aligned_img\18110002\95 - Copy.png 350 228 454 353
+./aligned_img\18110002\95.png 350 228 454 353
+./aligned_img\18110002\96 - Copy.png 350 228 454 353
+./aligned_img\18110002\96.png 350 228 454 353
+./aligned_img\18110002\97 - Copy.png 347 230 450 350
+./aligned_img\18110002\97.png 347 230 450 350
+./aligned_img\18110002\98 - Copy.png 347 230 450 350
+./aligned_img\18110002\98.png 347 230 450 350
+./aligned_img\18110002\99 - Copy.png 348 228 450 347
+./aligned_img\18110002\99.png 348 228 450 347
+./aligned_img\18110003\1 - Copy.png 317 249 434 409
+./aligned_img\18110003\1.png 317 249 434 409
+./aligned_img\18110003\10 - Copy.png 314 256 427 408
+./aligned_img\18110003\10.png 314 256 427 408
+./aligned_img\18110003\100 - Copy.png
+./aligned_img\18110003\100.png
+./aligned_img\18110003\101 - Copy.png
+./aligned_img\18110003\101.png
+./aligned_img\18110003\102 - Copy.png
+./aligned_img\18110003\102.png
+./aligned_img\18110003\103 - Copy.png 317 144 349 184
+./aligned_img\18110003\103.png 317 144 349 184
+./aligned_img\18110003\104 - Copy.png 317 144 349 184
+./aligned_img\18110003\104.png 317 144 349 184
+./aligned_img\18110003\105 - Copy.png 301 243 414 379
+./aligned_img\18110003\105.png 301 243 414 379
+./aligned_img\18110003\106 - Copy.png 301 243 414 379
+./aligned_img\18110003\106.png 301 243 414 379
+./aligned_img\18110003\107 - Copy.png 317 251 417 353
+./aligned_img\18110003\107.png 317 251 417 353
+./aligned_img\18110003\108 - Copy.png 317 251 417 353
+./aligned_img\18110003\108.png 317 251 417 353
+./aligned_img\18110003\109 - Copy.png 316 248 422 370
+./aligned_img\18110003\109.png 316 248 422 370
+./aligned_img\18110003\11 - Copy.png 310 258 426 411
+./aligned_img\18110003\11.png 310 258 426 411
+./aligned_img\18110003\110 - Copy.png 318 249 426 367
+./aligned_img\18110003\110.png 318 249 426 367
+./aligned_img\18110003\111 - Copy.png 318 249 426 367
+./aligned_img\18110003\111.png 318 249 426 367
+./aligned_img\18110003\112 - Copy.png 319 255 424 375
+./aligned_img\18110003\112.png 319 255 424 375
+./aligned_img\18110003\113 - Copy.png 319 255 424 375
+./aligned_img\18110003\113.png 319 255 424 375
+./aligned_img\18110003\114 - Copy.png 318 253 428 384
+./aligned_img\18110003\114.png 318 253 428 384
+./aligned_img\18110003\115 - Copy.png 318 253 428 384
+./aligned_img\18110003\115.png 318 253 428 384
+./aligned_img\18110003\116 - Copy.png 319 255 429 390
+./aligned_img\18110003\116.png 319 255 429 390
+./aligned_img\18110003\117 - Copy.png 319 258 430 397
+./aligned_img\18110003\117.png 319 258 430 397
+./aligned_img\18110003\118 - Copy.png 319 256 432 403
+./aligned_img\18110003\118.png 319 256 432 403
+./aligned_img\18110003\119 - Copy.png 317 257 430 406
+./aligned_img\18110003\119.png 317 257 430 406
+./aligned_img\18110003\12 - Copy.png 310 258 426 411
+./aligned_img\18110003\12.png 310 258 426 411
+./aligned_img\18110003\120 - Copy.png 317 257 430 406
+./aligned_img\18110003\120.png 317 257 430 406
+./aligned_img\18110003\121 - Copy.png 318 259 433 408
+./aligned_img\18110003\121.png 318 259 433 408
+./aligned_img\18110003\122 - Copy.png 317 262 434 413
+./aligned_img\18110003\122.png 317 262 434 413
+./aligned_img\18110003\123 - Copy.png 317 262 434 413
+./aligned_img\18110003\123.png 317 262 434 413
+./aligned_img\18110003\124 - Copy.png 321 264 435 413
+./aligned_img\18110003\124.png 321 264 435 413
+./aligned_img\18110003\125 - Copy.png 323 266 433 412
+./aligned_img\18110003\125.png 323 266 433 412
+./aligned_img\18110003\126 - Copy.png 323 266 433 412
+./aligned_img\18110003\126.png 323 266 433 412
+./aligned_img\18110003\127 - Copy.png 322 265 433 412
+./aligned_img\18110003\127.png 322 265 433 412
+./aligned_img\18110003\128 - Copy.png 322 265 433 412
+./aligned_img\18110003\128.png 322 265 433 412
+./aligned_img\18110003\129 - Copy.png 318 266 433 414
+./aligned_img\18110003\129.png 318 266 433 414
+./aligned_img\18110003\13 - Copy.png 312 257 427 412
+./aligned_img\18110003\13.png 312 257 427 412
+./aligned_img\18110003\130 - Copy.png 318 266 433 414
+./aligned_img\18110003\130.png 318 266 433 414
+./aligned_img\18110003\131 - Copy.png 318 268 430 414
+./aligned_img\18110003\131.png 318 268 430 414
+./aligned_img\18110003\132 - Copy.png 317 266 432 416
+./aligned_img\18110003\132.png 317 266 432 416
+./aligned_img\18110003\133 - Copy.png 317 266 432 416
+./aligned_img\18110003\133.png 317 266 432 416
+./aligned_img\18110003\134 - Copy.png 319 271 429 415
+./aligned_img\18110003\134.png 319 271 429 415
+./aligned_img\18110003\135 - Copy.png 319 271 429 415
+./aligned_img\18110003\135.png 319 271 429 415
+./aligned_img\18110003\136 - Copy.png 320 265 433 413
+./aligned_img\18110003\136.png 320 265 433 413
+./aligned_img\18110003\137 - Copy.png 320 265 433 413
+./aligned_img\18110003\137.png 320 265 433 413
+./aligned_img\18110003\138 - Copy.png 323 265 434 411
+./aligned_img\18110003\138.png 323 265 434 411
+./aligned_img\18110003\139 - Copy.png 323 265 434 411
+./aligned_img\18110003\139.png 323 265 434 411
+./aligned_img\18110003\14 - Copy.png 312 257 427 412
+./aligned_img\18110003\14.png 312 257 427 412
+./aligned_img\18110003\140 - Copy.png 321 264 433 411
+./aligned_img\18110003\140.png 321 264 433 411
+./aligned_img\18110003\141 - Copy.png 321 264 433 411
+./aligned_img\18110003\141.png 321 264 433 411
+./aligned_img\18110003\142 - Copy.png 327 263 437 406
+./aligned_img\18110003\142.png 327 263 437 406
+./aligned_img\18110003\143 - Copy.png 329 263 439 406
+./aligned_img\18110003\143.png 329 263 439 406
+./aligned_img\18110003\144 - Copy.png 329 263 439 406
+./aligned_img\18110003\144.png 329 263 439 406
+./aligned_img\18110003\145 - Copy.png 331 260 442 403
+./aligned_img\18110003\145.png 331 260 442 403
+./aligned_img\18110003\146 - Copy.png 331 260 442 403
+./aligned_img\18110003\146.png 331 260 442 403
+./aligned_img\18110003\147 - Copy.png 331 261 444 404
+./aligned_img\18110003\147.png 331 261 444 404
+./aligned_img\18110003\148 - Copy.png 331 261 444 404
+./aligned_img\18110003\148.png 331 261 444 404
+./aligned_img\18110003\149 - Copy.png 336 260 444 404
+./aligned_img\18110003\149.png 336 260 444 404
+./aligned_img\18110003\15 - Copy.png 313 257 429 412
+./aligned_img\18110003\15.png 313 257 429 412
+./aligned_img\18110003\150 - Copy.png 336 260 444 404
+./aligned_img\18110003\150.png 336 260 444 404
+./aligned_img\18110003\151 - Copy.png 338 260 446 404
+./aligned_img\18110003\151.png 338 260 446 404
+./aligned_img\18110003\152 - Copy.png 340 259 448 402
+./aligned_img\18110003\152.png 340 259 448 402
+./aligned_img\18110003\153 - Copy.png 346 261 450 402
+./aligned_img\18110003\153.png 346 261 450 402
+./aligned_img\18110003\154 - Copy.png 348 259 453 398
+./aligned_img\18110003\154.png 348 259 453 398
+./aligned_img\18110003\155 - Copy.png 348 259 453 398
+./aligned_img\18110003\155.png 348 259 453 398
+./aligned_img\18110003\156 - Copy.png 356 257 461 405
+./aligned_img\18110003\156.png 356 257 461 405
+./aligned_img\18110003\157 - Copy.png 371 259 466 402
+./aligned_img\18110003\157.png 371 259 466 402
+./aligned_img\18110003\158 - Copy.png 371 259 466 402
+./aligned_img\18110003\158.png 371 259 466 402
+./aligned_img\18110003\159 - Copy.png 374 248 476 407
+./aligned_img\18110003\159.png 374 248 476 407
+./aligned_img\18110003\16 - Copy.png 313 257 429 412
+./aligned_img\18110003\16.png 313 257 429 412
+./aligned_img\18110003\160 - Copy.png 382 255 480 409
+./aligned_img\18110003\160.png 382 255 480 409
+./aligned_img\18110003\161 - Copy.png 382 255 480 409
+./aligned_img\18110003\161.png 382 255 480 409
+./aligned_img\18110003\162 - Copy.png 383 261 477 416
+./aligned_img\18110003\162.png 383 261 477 416
+./aligned_img\18110003\163 - Copy.png 383 261 477 416
+./aligned_img\18110003\163.png 383 261 477 416
+./aligned_img\18110003\164 - Copy.png 318 145 349 183
+./aligned_img\18110003\164.png 318 145 349 183
+./aligned_img\18110003\165 - Copy.png 318 145 349 183
+./aligned_img\18110003\165.png 318 145 349 183
+./aligned_img\18110003\166 - Copy.png 385 259 474 414
+./aligned_img\18110003\166.png 385 259 474 414
+./aligned_img\18110003\167 - Copy.png 387 262 481 402
+./aligned_img\18110003\167.png 387 262 481 402
+./aligned_img\18110003\168 - Copy.png 387 262 481 402
+./aligned_img\18110003\168.png 387 262 481 402
+./aligned_img\18110003\169 - Copy.png 319 145 350 183
+./aligned_img\18110003\169.png 319 145 350 183
+./aligned_img\18110003\17 - Copy.png 315 259 429 411
+./aligned_img\18110003\17.png 315 259 429 411
+./aligned_img\18110003\170 - Copy.png 381 262 474 410
+./aligned_img\18110003\170.png 381 262 474 410
+./aligned_img\18110003\171 - Copy.png 381 262 474 410
+./aligned_img\18110003\171.png 381 262 474 410
+./aligned_img\18110003\172 - Copy.png 379 265 474 409
+./aligned_img\18110003\172.png 379 265 474 409
+./aligned_img\18110003\173 - Copy.png 379 265 474 409
+./aligned_img\18110003\173.png 379 265 474 409
+./aligned_img\18110003\174 - Copy.png 365 258 470 409
+./aligned_img\18110003\174.png 365 258 470 409
+./aligned_img\18110003\175 - Copy.png 366 267 463 400
+./aligned_img\18110003\175.png 366 267 463 400
+./aligned_img\18110003\176 - Copy.png 366 267 463 400
+./aligned_img\18110003\176.png 366 267 463 400
+./aligned_img\18110003\177 - Copy.png 350 255 460 410
+./aligned_img\18110003\177.png 350 255 460 410
+./aligned_img\18110003\178 - Copy.png 350 255 460 410
+./aligned_img\18110003\178.png 350 255 460 410
+./aligned_img\18110003\179 - Copy.png 353 262 459 403
+./aligned_img\18110003\179.png 353 262 459 403
+./aligned_img\18110003\18 - Copy.png 315 262 431 411
+./aligned_img\18110003\18.png 315 262 431 411
+./aligned_img\18110003\180 - Copy.png 353 262 459 403
+./aligned_img\18110003\180.png 353 262 459 403
+./aligned_img\18110003\181 - Copy.png 345 259 455 402
+./aligned_img\18110003\181.png 345 259 455 402
+./aligned_img\18110003\182 - Copy.png 345 259 455 402
+./aligned_img\18110003\182.png 345 259 455 402
+./aligned_img\18110003\183 - Copy.png 340 264 452 404
+./aligned_img\18110003\183.png 340 264 452 404
+./aligned_img\18110003\184 - Copy.png 340 264 452 404
+./aligned_img\18110003\184.png 340 264 452 404
+./aligned_img\18110003\185 - Copy.png 337 260 448 403
+./aligned_img\18110003\185.png 337 260 448 403
+./aligned_img\18110003\186 - Copy.png 336 263 444 406
+./aligned_img\18110003\186.png 336 263 444 406
+./aligned_img\18110003\187 - Copy.png 329 262 442 404
+./aligned_img\18110003\187.png 329 262 442 404
+./aligned_img\18110003\188 - Copy.png 329 262 442 404
+./aligned_img\18110003\188.png 329 262 442 404
+./aligned_img\18110003\189 - Copy.png 326 262 438 406
+./aligned_img\18110003\189.png 326 262 438 406
+./aligned_img\18110003\19 - Copy.png 315 259 432 410
+./aligned_img\18110003\19.png 315 259 432 410
+./aligned_img\18110003\190 - Copy.png 326 262 438 406
+./aligned_img\18110003\190.png 326 262 438 406
+./aligned_img\18110003\191 - Copy.png 319 263 432 405
+./aligned_img\18110003\191.png 319 263 432 405
+./aligned_img\18110003\192 - Copy.png 319 263 432 405
+./aligned_img\18110003\192.png 319 263 432 405
+./aligned_img\18110003\193 - Copy.png 313 263 425 404
+./aligned_img\18110003\193.png 313 263 425 404
+./aligned_img\18110003\194 - Copy.png 313 263 425 404
+./aligned_img\18110003\194.png 313 263 425 404
+./aligned_img\18110003\195 - Copy.png 311 265 423 403
+./aligned_img\18110003\195.png 311 265 423 403
+./aligned_img\18110003\196 - Copy.png 306 266 416 403
+./aligned_img\18110003\196.png 306 266 416 403
+./aligned_img\18110003\197 - Copy.png 306 266 416 403
+./aligned_img\18110003\197.png 306 266 416 403
+./aligned_img\18110003\198 - Copy.png 302 266 411 404
+./aligned_img\18110003\198.png 302 266 411 404
+./aligned_img\18110003\199 - Copy.png 302 266 411 404
+./aligned_img\18110003\199.png 302 266 411 404
+./aligned_img\18110003\2 - Copy.png 317 253 430 406
+./aligned_img\18110003\2.png 317 253 430 406
+./aligned_img\18110003\20 - Copy.png 315 259 432 410
+./aligned_img\18110003\20.png 315 259 432 410
+./aligned_img\18110003\200 - Copy.png 301 269 407 404
+./aligned_img\18110003\200.png 301 269 407 404
+./aligned_img\18110003\201 - Copy.png 301 269 407 404
+./aligned_img\18110003\201.png 301 269 407 404
+./aligned_img\18110003\202 - Copy.png 290 262 400 404
+./aligned_img\18110003\202.png 290 262 400 404
+./aligned_img\18110003\203 - Copy.png 289 273 393 406
+./aligned_img\18110003\203.png 289 273 393 406
+./aligned_img\18110003\204 - Copy.png 289 273 393 406
+./aligned_img\18110003\204.png 289 273 393 406
+./aligned_img\18110003\205 - Copy.png 290 270 390 404
+./aligned_img\18110003\205.png 290 270 390 404
+./aligned_img\18110003\206 - Copy.png 290 270 390 404
+./aligned_img\18110003\206.png 290 270 390 404
+./aligned_img\18110003\207 - Copy.png 283 270 384 405
+./aligned_img\18110003\207.png 283 270 384 405
+./aligned_img\18110003\208 - Copy.png 283 270 384 405
+./aligned_img\18110003\208.png 283 270 384 405
+./aligned_img\18110003\209 - Copy.png 280 269 380 406
+./aligned_img\18110003\209.png 280 269 380 406
+./aligned_img\18110003\21 - Copy.png 317 261 432 412
+./aligned_img\18110003\21.png 317 261 432 412
+./aligned_img\18110003\210 - Copy.png 280 269 380 406
+./aligned_img\18110003\210.png 280 269 380 406
+./aligned_img\18110003\211 - Copy.png 278 267 378 404
+./aligned_img\18110003\211.png 278 267 378 404
+./aligned_img\18110003\212 - Copy.png 277 268 378 409
+./aligned_img\18110003\212.png 277 268 378 409
+./aligned_img\18110003\213 - Copy.png 277 268 378 409
+./aligned_img\18110003\213.png 277 268 378 409
+./aligned_img\18110003\214 - Copy.png 274 267 375 404
+./aligned_img\18110003\214.png 274 267 375 404
+./aligned_img\18110003\215 - Copy.png 272 267 374 404
+./aligned_img\18110003\215.png 272 267 374 404
+./aligned_img\18110003\216 - Copy.png 272 267 374 404
+./aligned_img\18110003\216.png 272 267 374 404
+./aligned_img\18110003\217 - Copy.png 275 268 374 406
+./aligned_img\18110003\217.png 275 268 374 406
+./aligned_img\18110003\218 - Copy.png 275 268 374 406
+./aligned_img\18110003\218.png 275 268 374 406
+./aligned_img\18110003\219 - Copy.png 267 267 371 404
+./aligned_img\18110003\219.png 267 267 371 404
+./aligned_img\18110003\22 - Copy.png 319 260 433 413
+./aligned_img\18110003\22.png 319 260 433 413
+./aligned_img\18110003\220 - Copy.png 267 266 370 404
+./aligned_img\18110003\220.png 267 266 370 404
+./aligned_img\18110003\221 - Copy.png 273 267 376 405
+./aligned_img\18110003\221.png 273 267 376 405
+./aligned_img\18110003\222 - Copy.png 279 269 385 409
+./aligned_img\18110003\222.png 279 269 385 409
+./aligned_img\18110003\223 - Copy.png 283 264 392 406
+./aligned_img\18110003\223.png 283 264 392 406
+./aligned_img\18110003\224 - Copy.png 283 264 392 406
+./aligned_img\18110003\224.png 283 264 392 406
+./aligned_img\18110003\225 - Copy.png 291 268 397 408
+./aligned_img\18110003\225.png 291 268 397 408
+./aligned_img\18110003\226 - Copy.png 291 268 397 408
+./aligned_img\18110003\226.png 291 268 397 408
+./aligned_img\18110003\227 - Copy.png 294 266 403 408
+./aligned_img\18110003\227.png 294 266 403 408
+./aligned_img\18110003\228 - Copy.png 294 266 403 408
+./aligned_img\18110003\228.png 294 266 403 408
+./aligned_img\18110003\229 - Copy.png 297 265 406 405
+./aligned_img\18110003\229.png 297 265 406 405
+./aligned_img\18110003\23 - Copy.png 321 261 434 414
+./aligned_img\18110003\23.png 321 261 434 414
+./aligned_img\18110003\230 - Copy.png 300 265 412 406
+./aligned_img\18110003\230.png 300 265 412 406
+./aligned_img\18110003\231 - Copy.png 300 265 412 406
+./aligned_img\18110003\231.png 300 265 412 406
+./aligned_img\18110003\232 - Copy.png 302 266 412 407
+./aligned_img\18110003\232.png 302 266 412 407
+./aligned_img\18110003\233 - Copy.png 305 263 418 408
+./aligned_img\18110003\233.png 305 263 418 408
+./aligned_img\18110003\234 - Copy.png 305 263 418 408
+./aligned_img\18110003\234.png 305 263 418 408
+./aligned_img\18110003\235 - Copy.png 308 263 421 409
+./aligned_img\18110003\235.png 308 263 421 409
+./aligned_img\18110003\236 - Copy.png 310 263 423 410
+./aligned_img\18110003\236.png 310 263 423 410
+./aligned_img\18110003\237 - Copy.png 310 263 423 410
+./aligned_img\18110003\237.png 310 263 423 410
+./aligned_img\18110003\238 - Copy.png 311 263 426 411
+./aligned_img\18110003\238.png 311 263 426 411
+./aligned_img\18110003\239 - Copy.png 313 263 427 412
+./aligned_img\18110003\239.png 313 263 427 412
+./aligned_img\18110003\24 - Copy.png 323 260 437 414
+./aligned_img\18110003\24.png 323 260 437 414
+./aligned_img\18110003\240 - Copy.png 313 263 427 412
+./aligned_img\18110003\240.png 313 263 427 412
+./aligned_img\18110003\241 - Copy.png 313 263 430 412
+./aligned_img\18110003\241.png 313 263 430 412
+./aligned_img\18110003\242 - Copy.png 313 263 430 412
+./aligned_img\18110003\242.png 313 263 430 412
+./aligned_img\18110003\243 - Copy.png 318 261 434 412
+./aligned_img\18110003\243.png 318 261 434 412
+./aligned_img\18110003\244 - Copy.png 320 263 435 411
+./aligned_img\18110003\244.png 320 263 435 411
+./aligned_img\18110003\245 - Copy.png 320 263 435 411
+./aligned_img\18110003\245.png 320 263 435 411
+./aligned_img\18110003\246 - Copy.png 324 264 436 412
+./aligned_img\18110003\246.png 324 264 436 412
+./aligned_img\18110003\247 - Copy.png 324 264 437 412
+./aligned_img\18110003\247.png 324 264 437 412
+./aligned_img\18110003\248 - Copy.png 325 264 437 412
+./aligned_img\18110003\248.png 325 264 437 412
+./aligned_img\18110003\249 - Copy.png 325 264 437 412
+./aligned_img\18110003\249.png 325 264 437 412
+./aligned_img\18110003\25 - Copy.png 326 261 439 415
+./aligned_img\18110003\25.png 326 261 439 415
+./aligned_img\18110003\250 - Copy.png 324 264 437 409
+./aligned_img\18110003\250.png 324 264 437 409
+./aligned_img\18110003\26 - Copy.png 329 264 441 415
+./aligned_img\18110003\26.png 329 264 441 415
+./aligned_img\18110003\27 - Copy.png 329 264 441 415
+./aligned_img\18110003\27.png 329 264 441 415
+./aligned_img\18110003\28 - Copy.png 330 264 442 416
+./aligned_img\18110003\28.png 330 264 442 416
+./aligned_img\18110003\29 - Copy.png 330 267 442 416
+./aligned_img\18110003\29.png 330 267 442 416
+./aligned_img\18110003\3 - Copy.png 315 254 429 404
+./aligned_img\18110003\3.png 315 254 429 404
+./aligned_img\18110003\30 - Copy.png 330 267 442 416
+./aligned_img\18110003\30.png 330 267 442 416
+./aligned_img\18110003\31 - Copy.png 329 267 442 414
+./aligned_img\18110003\31.png 329 267 442 414
+./aligned_img\18110003\32 - Copy.png 329 267 442 414
+./aligned_img\18110003\32.png 329 267 442 414
+./aligned_img\18110003\33 - Copy.png 327 266 439 413
+./aligned_img\18110003\33.png 327 266 439 413
+./aligned_img\18110003\34 - Copy.png 327 266 437 415
+./aligned_img\18110003\34.png 327 266 437 415
+./aligned_img\18110003\35 - Copy.png 320 270 432 413
+./aligned_img\18110003\35.png 320 270 432 413
+./aligned_img\18110003\36 - Copy.png 320 270 432 413
+./aligned_img\18110003\36.png 320 270 432 413
+./aligned_img\18110003\37 - Copy.png 317 269 428 416
+./aligned_img\18110003\37.png 317 269 428 416
+./aligned_img\18110003\38 - Copy.png 314 271 425 415
+./aligned_img\18110003\38.png 314 271 425 415
+./aligned_img\18110003\39 - Copy.png 314 271 425 415
+./aligned_img\18110003\39.png 314 271 425 415
+./aligned_img\18110003\4 - Copy.png 315 255 429 408
+./aligned_img\18110003\4.png 315 255 429 408
+./aligned_img\18110003\40 - Copy.png 313 271 422 417
+./aligned_img\18110003\40.png 313 271 422 417
+./aligned_img\18110003\41 - Copy.png 311 270 418 412
+./aligned_img\18110003\41.png 311 270 418 412
+./aligned_img\18110003\42 - Copy.png 311 270 418 412
+./aligned_img\18110003\42.png 311 270 418 412
+./aligned_img\18110003\43 - Copy.png 302 265 415 414
+./aligned_img\18110003\43.png 302 265 415 414
+./aligned_img\18110003\44 - Copy.png 302 265 415 414
+./aligned_img\18110003\44.png 302 265 415 414
+./aligned_img\18110003\45 - Copy.png 305 267 415 412
+./aligned_img\18110003\45.png 305 267 415 412
+./aligned_img\18110003\46 - Copy.png 310 270 412 411
+./aligned_img\18110003\46.png 310 270 412 411
+./aligned_img\18110003\47 - Copy.png 310 270 412 411
+./aligned_img\18110003\47.png 310 270 412 411
+./aligned_img\18110003\48 - Copy.png 308 268 412 411
+./aligned_img\18110003\48.png 308 268 412 411
+./aligned_img\18110003\49 - Copy.png 306 272 411 413
+./aligned_img\18110003\49.png 306 272 411 413
+./aligned_img\18110003\5 - Copy.png 315 255 429 408
+./aligned_img\18110003\5.png 315 255 429 408
+./aligned_img\18110003\50 - Copy.png 306 272 411 413
+./aligned_img\18110003\50.png 306 272 411 413
+./aligned_img\18110003\51 - Copy.png 305 271 414 414
+./aligned_img\18110003\51.png 305 271 414 414
+./aligned_img\18110003\52 - Copy.png 306 267 420 414
+./aligned_img\18110003\52.png 306 267 420 414
+./aligned_img\18110003\53 - Copy.png 312 265 425 412
+./aligned_img\18110003\53.png 312 265 425 412
+./aligned_img\18110003\54 - Copy.png 319 263 433 410
+./aligned_img\18110003\54.png 319 263 433 410
+./aligned_img\18110003\55 - Copy.png 319 263 433 410
+./aligned_img\18110003\55.png 319 263 433 410
+./aligned_img\18110003\56 - Copy.png 328 264 439 405
+./aligned_img\18110003\56.png 328 264 439 405
+./aligned_img\18110003\57 - Copy.png 333 263 441 403
+./aligned_img\18110003\57.png 333 263 441 403
+./aligned_img\18110003\58 - Copy.png 333 267 444 405
+./aligned_img\18110003\58.png 333 267 444 405
+./aligned_img\18110003\59 - Copy.png 340 265 446 400
+./aligned_img\18110003\59.png 340 265 446 400
+./aligned_img\18110003\6 - Copy.png 315 257 429 409
+./aligned_img\18110003\6.png 315 257 429 409
+./aligned_img\18110003\60 - Copy.png 340 265 446 400
+./aligned_img\18110003\60.png 340 265 446 400
+./aligned_img\18110003\61 - Copy.png 345 267 446 401
+./aligned_img\18110003\61.png 345 267 446 401
+./aligned_img\18110003\62 - Copy.png 349 263 448 400
+./aligned_img\18110003\62.png 349 263 448 400
+./aligned_img\18110003\63 - Copy.png 349 263 448 400
+./aligned_img\18110003\63.png 349 263 448 400
+./aligned_img\18110003\64 - Copy.png 352 262 454 407
+./aligned_img\18110003\64.png 352 262 454 407
+./aligned_img\18110003\65 - Copy.png 353 264 449 403
+./aligned_img\18110003\65.png 353 264 449 403
+./aligned_img\18110003\66 - Copy.png 355 266 450 400
+./aligned_img\18110003\66.png 355 266 450 400
+./aligned_img\18110003\67 - Copy.png 355 266 450 400
+./aligned_img\18110003\67.png 355 266 450 400
+./aligned_img\18110003\68 - Copy.png 351 263 452 405
+./aligned_img\18110003\68.png 351 263 452 405
+./aligned_img\18110003\69 - Copy.png 345 266 446 399
+./aligned_img\18110003\69.png 345 266 446 399
+./aligned_img\18110003\7 - Copy.png 315 257 429 409
+./aligned_img\18110003\7.png 315 257 429 409
+./aligned_img\18110003\70 - Copy.png 345 266 446 399
+./aligned_img\18110003\70.png 345 266 446 399
+./aligned_img\18110003\71 - Copy.png 340 263 446 402
+./aligned_img\18110003\71.png 340 263 446 402
+./aligned_img\18110003\72 - Copy.png 340 263 446 402
+./aligned_img\18110003\72.png 340 263 446 402
+./aligned_img\18110003\73 - Copy.png 333 261 445 403
+./aligned_img\18110003\73.png 333 261 445 403
+./aligned_img\18110003\74 - Copy.png 333 261 445 403
+./aligned_img\18110003\74.png 333 261 445 403
+./aligned_img\18110003\75 - Copy.png 331 261 443 404
+./aligned_img\18110003\75.png 331 261 443 404
+./aligned_img\18110003\76 - Copy.png 331 261 443 404
+./aligned_img\18110003\76.png 331 261 443 404
+./aligned_img\18110003\77 - Copy.png 316 143 349 185
+./aligned_img\18110003\77.png 316 143 349 185
+./aligned_img\18110003\78 - Copy.png 325 261 437 402
+./aligned_img\18110003\78.png 325 261 437 402
+./aligned_img\18110003\79 - Copy.png 325 261 437 402
+./aligned_img\18110003\79.png 325 261 437 402
+./aligned_img\18110003\8 - Copy.png 314 255 428 408
+./aligned_img\18110003\8.png 314 255 428 408
+./aligned_img\18110003\80 - Copy.png 324 261 434 399
+./aligned_img\18110003\80.png 324 261 434 399
+./aligned_img\18110003\81 - Copy.png 324 261 434 399
+./aligned_img\18110003\81.png 324 261 434 399
+./aligned_img\18110003\82 - Copy.png 322 255 433 392
+./aligned_img\18110003\82.png 322 255 433 392
+./aligned_img\18110003\83 - Copy.png 319 248 433 382
+./aligned_img\18110003\83.png 319 248 433 382
+./aligned_img\18110003\84 - Copy.png 319 246 433 374
+./aligned_img\18110003\84.png 319 246 433 374
+./aligned_img\18110003\85 - Copy.png 322 250 427 363
+./aligned_img\18110003\85.png 322 250 427 363
+./aligned_img\18110003\86 - Copy.png 322 250 427 363
+./aligned_img\18110003\86.png 322 250 427 363
+./aligned_img\18110003\87 - Copy.png 323 249 424 357
+./aligned_img\18110003\87.png 323 249 424 357
+./aligned_img\18110003\88 - Copy.png 315 248 423 360
+./aligned_img\18110003\88.png 315 248 423 360
+./aligned_img\18110003\89 - Copy.png 315 248 423 360
+./aligned_img\18110003\89.png 315 248 423 360
+./aligned_img\18110003\9 - Copy.png 314 256 427 408
+./aligned_img\18110003\9.png 314 256 427 408
+./aligned_img\18110003\90 - Copy.png 313 243 418 359
+./aligned_img\18110003\90.png 313 243 418 359
+./aligned_img\18110003\91 - Copy.png
+./aligned_img\18110003\91.png
+./aligned_img\18110003\92 - Copy.png
+./aligned_img\18110003\92.png
+./aligned_img\18110003\93 - Copy.png
+./aligned_img\18110003\93.png
+./aligned_img\18110003\94 - Copy.png
+./aligned_img\18110003\94.png
+./aligned_img\18110003\95 - Copy.png 313 255 409 369
+./aligned_img\18110003\95.png 313 255 409 369
+./aligned_img\18110003\96 - Copy.png
+./aligned_img\18110003\96.png
+./aligned_img\18110003\97 - Copy.png
+./aligned_img\18110003\97.png
+./aligned_img\18110003\98 - Copy.png
+./aligned_img\18110003\98.png
+./aligned_img\18110003\99 - Copy.png
+./aligned_img\18110003\99.png
+./aligned_img\18110004\1.png 315 271 433 412
+./aligned_img\18110004\10.png 345 273 464 425
+./aligned_img\18110004\100.png 334 266 451 405
+./aligned_img\18110004\101.png 333 266 451 405
+./aligned_img\18110004\102.png 332 265 451 406
+./aligned_img\18110004\103.png 332 265 451 405
+./aligned_img\18110004\104.png 331 264 451 406
+./aligned_img\18110004\105.png 331 268 445 408
+./aligned_img\18110004\106.png 330 269 446 405
+./aligned_img\18110004\107.png 327 269 440 404
+./aligned_img\18110004\108.png 325 269 441 404
+./aligned_img\18110004\109.png 324 267 442 408
+./aligned_img\18110004\11.png 343 275 462 424
+./aligned_img\18110004\110.png 320 262 441 412
+./aligned_img\18110004\111.png 317 268 434 405
+./aligned_img\18110004\112.png 318 270 434 409
+./aligned_img\18110004\113.png 322 268 436 408
+./aligned_img\18110004\114.png 317 267 434 410
+./aligned_img\18110004\115.png 318 270 430 408
+./aligned_img\18110004\116.png 316 269 429 412
+./aligned_img\18110004\117.png 316 271 426 408
+./aligned_img\18110004\118.png 318 277 426 409
+./aligned_img\18110004\119.png 316 269 428 410
+./aligned_img\18110004\12.png 343 273 463 423
+./aligned_img\18110004\120.png 316 269 429 410
+./aligned_img\18110004\121.png 314 269 430 412
+./aligned_img\18110004\122.png 319 268 433 410
+./aligned_img\18110004\123.png 322 267 433 405
+./aligned_img\18110004\124.png 323 266 438 407
+./aligned_img\18110004\125.png 324 266 440 406
+./aligned_img\18110004\126.png 335 267 445 405
+./aligned_img\18110004\127.png 322 257 442 410
+./aligned_img\18110004\128.png 322 268 441 406
+./aligned_img\18110004\129.png 321 269 440 405
+./aligned_img\18110004\13.png 339 271 461 421
+./aligned_img\18110004\130.png 322 270 441 406
+./aligned_img\18110004\131.png 322 270 440 406
+./aligned_img\18110004\132.png 323 271 440 406
+./aligned_img\18110004\133.png 336 263 449 406
+./aligned_img\18110004\134.png 324 270 441 405
+./aligned_img\18110004\135.png 331 259 450 411
+./aligned_img\18110004\136.png 334 262 448 403
+./aligned_img\18110004\137.png 329 259 447 403
+./aligned_img\18110004\138.png 327 261 446 401
+./aligned_img\18110004\139.png 325 267 439 399
+./aligned_img\18110004\14.png 334 270 457 422
+./aligned_img\18110004\140.png 327 258 447 398
+./aligned_img\18110004\141.png 341 264 445 391
+./aligned_img\18110004\142.png 324 261 437 390
+./aligned_img\18110004\143.png 329 258 443 389
+./aligned_img\18110004\144.png 338 259 444 381
+./aligned_img\18110004\145.png 326 256 441 383
+./aligned_img\18110004\146.png 327 253 441 380
+./aligned_img\18110004\147.png 332 251 441 374
+./aligned_img\18110004\148.png 331 251 444 372
+./aligned_img\18110004\149.png 331 245 445 370
+./aligned_img\18110004\15.png 337 268 459 423
+./aligned_img\18110004\150.png 332 242 446 369
+./aligned_img\18110004\151.png 336 250 441 362
+./aligned_img\18110004\152.png 335 244 439 365
+./aligned_img\18110004\153.png 333 240 444 360
+./aligned_img\18110004\154.png 336 240 444 360
+./aligned_img\18110004\155.png 337 241 445 360
+./aligned_img\18110004\156.png 334 237 444 361
+./aligned_img\18110004\157.png 335 241 445 362
+./aligned_img\18110004\158.png 337 243 447 363
+./aligned_img\18110004\159.png 336 244 442 364
+./aligned_img\18110004\16.png 340 271 459 422
+./aligned_img\18110004\160.png 335 243 449 368
+./aligned_img\18110004\161.png 332 240 450 372
+./aligned_img\18110004\162.png 334 247 447 370
+./aligned_img\18110004\163.png 335 247 449 375
+./aligned_img\18110004\164.png 331 251 445 380
+./aligned_img\18110004\165.png 332 254 447 382
+./aligned_img\18110004\166.png 332 253 448 384
+./aligned_img\18110004\167.png 332 254 451 391
+./aligned_img\18110004\168.png 332 259 448 392
+./aligned_img\18110004\169.png 330 261 445 397
+./aligned_img\18110004\17.png 335 269 457 423
+./aligned_img\18110004\170.png 330 260 449 400
+./aligned_img\18110004\171.png 329 265 445 398
+./aligned_img\18110004\172.png 330 260 450 402
+./aligned_img\18110004\173.png 330 265 442 395
+./aligned_img\18110004\174.png 329 259 447 399
+./aligned_img\18110004\175.png 331 259 452 401
+./aligned_img\18110004\176.png 332 260 451 401
+./aligned_img\18110004\177.png 331 260 451 402
+./aligned_img\18110004\178.png 330 260 451 401
+./aligned_img\18110004\179.png 331 267 442 396
+./aligned_img\18110004\18.png 335 268 458 421
+./aligned_img\18110004\180.png 333 264 450 402
+./aligned_img\18110004\181.png 332 264 449 402
+./aligned_img\18110004\182.png 326 260 447 406
+./aligned_img\18110004\183.png 331 267 452 408
+./aligned_img\18110004\184.png 334 268 452 408
+./aligned_img\18110004\185.png 330 265 452 415
+./aligned_img\18110004\186.png 335 274 452 416
+./aligned_img\18110004\187.png 334 277 455 419
+./aligned_img\18110004\188.png 332 280 454 425
+./aligned_img\18110004\189.png 336 285 455 426
+./aligned_img\18110004\19.png 335 271 457 419
+./aligned_img\18110004\190.png 332 286 452 426
+./aligned_img\18110004\191.png 335 292 453 436
+./aligned_img\18110004\192.png 330 293 451 439
+./aligned_img\18110004\193.png 333 297 452 439
+./aligned_img\18110004\194.png 331 298 451 442
+./aligned_img\18110004\195.png 333 304 450 443
+./aligned_img\18110004\196.png 332 304 450 447
+./aligned_img\18110004\197.png 333 308 449 449
+./aligned_img\18110004\198.png 333 312 448 448
+./aligned_img\18110004\199.png 329 313 448 449
+./aligned_img\18110004\2.png 326 275 440 413
+./aligned_img\18110004\20.png 339 271 454 416
+./aligned_img\18110004\200.png 329 310 448 453
+./aligned_img\18110004\201.png 327 311 449 452
+./aligned_img\18110004\202.png 325 311 448 451
+./aligned_img\18110004\203.png 329 307 449 452
+./aligned_img\18110004\204.png 327 306 448 452
+./aligned_img\18110004\205.png 326 314 446 449
+./aligned_img\18110004\206.png 331 309 446 448
+./aligned_img\18110004\207.png 328 309 445 449
+./aligned_img\18110004\208.png 327 305 444 448
+./aligned_img\18110004\209.png 327 302 444 442
+./aligned_img\18110004\21.png 338 270 454 416
+./aligned_img\18110004\210.png 326 303 444 438
+./aligned_img\18110004\211.png 324 293 445 440
+./aligned_img\18110004\212.png 326 290 442 427
+./aligned_img\18110004\213.png 322 287 441 430
+./aligned_img\18110004\214.png 327 288 440 418
+./aligned_img\18110004\215.png 324 277 445 420
+./aligned_img\18110004\216.png 323 271 444 416
+./aligned_img\18110004\217.png 322 269 443 415
+./aligned_img\18110004\218.png 322 268 441 408
+./aligned_img\18110004\219.png 331 265 447 409
+./aligned_img\18110004\22.png 337 268 454 415
+./aligned_img\18110004\220.png 323 264 442 405
+./aligned_img\18110004\221.png 326 262 446 406
+./aligned_img\18110004\222.png 326 262 444 404
+./aligned_img\18110004\223.png 341 264 449 401
+./aligned_img\18110004\224.png 336 262 448 405
+./aligned_img\18110004\225.png 323 263 437 398
+./aligned_img\18110004\226.png 326 263 445 404
+./aligned_img\18110004\227.png 326 262 445 403
+./aligned_img\18110004\228.png 326 263 445 403
+./aligned_img\18110004\229.png 335 261 449 403
+./aligned_img\18110004\23.png 336 268 453 413
+./aligned_img\18110004\230.png 325 262 445 403
+./aligned_img\18110004\231.png 335 263 448 405
+./aligned_img\18110004\232.png 337 261 450 405
+./aligned_img\18110004\233.png 326 263 445 404
+./aligned_img\18110004\234.png 325 265 437 396
+./aligned_img\18110004\235.png 327 262 443 400
+./aligned_img\18110004\236.png 331 265 445 404
+./aligned_img\18110004\237.png 327 261 444 400
+./aligned_img\18110004\238.png 331 265 448 402
+./aligned_img\18110004\239.png 334 263 447 396
+./aligned_img\18110004\24.png 336 270 453 410
+./aligned_img\18110004\240.png 336 269 451 400
+./aligned_img\18110004\241.png 335 263 458 406
+./aligned_img\18110004\242.png 340 263 455 400
+./aligned_img\18110004\243.png 343 258 455 397
+./aligned_img\18110004\244.png 344 257 457 398
+./aligned_img\18110004\245.png 346 261 457 397
+./aligned_img\18110004\246.png 342 259 458 398
+./aligned_img\18110004\247.png 341 261 461 400
+./aligned_img\18110004\248.png 343 265 458 397
+./aligned_img\18110004\249.png 339 258 465 406
+./aligned_img\18110004\25.png 335 269 452 408
+./aligned_img\18110004\250.png 342 262 458 399
+./aligned_img\18110004\251.png 336 260 457 401
+./aligned_img\18110004\252.png 343 268 452 393
+./aligned_img\18110004\253.png 335 262 455 400
+./aligned_img\18110004\254.png 335 263 454 399
+./aligned_img\18110004\255.png 334 263 453 400
+./aligned_img\18110004\256.png 334 267 448 400
+./aligned_img\18110004\257.png 334 262 450 399
+./aligned_img\18110004\258.png 338 261 453 399
+./aligned_img\18110004\259.png 340 259 453 400
+./aligned_img\18110004\26.png 332 269 450 408
+./aligned_img\18110004\260.png 339 260 452 398
+./aligned_img\18110004\261.png 329 262 444 397
+./aligned_img\18110004\262.png 331 261 448 398
+./aligned_img\18110004\263.png 329 261 444 397
+./aligned_img\18110004\264.png 331 265 444 400
+./aligned_img\18110004\265.png 327 264 441 399
+./aligned_img\18110004\266.png 327 269 439 396
+./aligned_img\18110004\267.png 325 266 438 397
+./aligned_img\18110004\268.png 322 256 439 397
+./aligned_img\18110004\269.png 323 263 436 395
+./aligned_img\18110004\27.png 331 268 451 409
+./aligned_img\18110004\270.png 321 262 434 396
+./aligned_img\18110004\271.png 333 264 439 399
+./aligned_img\18110004\272.png 321 263 434 402
+./aligned_img\18110004\273.png 316 262 433 403
+./aligned_img\18110004\274.png 316 267 427 397
+./aligned_img\18110004\275.png 316 269 426 395
+./aligned_img\18110004\276.png 318 265 427 392
+./aligned_img\18110004\277.png 316 262 429 395
+./aligned_img\18110004\278.png 315 262 430 397
+./aligned_img\18110004\279.png 317 265 430 399
+./aligned_img\18110004\28.png 331 270 447 408
+./aligned_img\18110004\280.png 317 262 431 401
+./aligned_img\18110004\281.png 321 264 433 401
+./aligned_img\18110004\282.png 330 260 441 402
+./aligned_img\18110004\283.png 318 262 433 398
+./aligned_img\18110004\284.png 322 261 435 397
+./aligned_img\18110004\285.png 324 260 439 399
+./aligned_img\18110004\286.png 326 265 438 399
+./aligned_img\18110004\287.png 327 259 442 399
+./aligned_img\18110004\288.png 325 256 443 400
+./aligned_img\18110004\289.png 328 265 442 400
+./aligned_img\18110004\29.png 331 263 449 409
+./aligned_img\18110004\290.png 325 260 444 400
+./aligned_img\18110004\291.png 332 260 446 401
+./aligned_img\18110004\292.png 327 260 446 401
+./aligned_img\18110004\293.png 328 259 445 398
+./aligned_img\18110004\294.png 334 261 448 398
+./aligned_img\18110004\295.png 341 258 452 399
+./aligned_img\18110004\296.png 343 261 452 397
+./aligned_img\18110004\297.png 342 260 451 399
+./aligned_img\18110004\298.png 342 260 451 398
+./aligned_img\18110004\299.png 338 261 451 396
+./aligned_img\18110004\3.png 324 275 441 417
+./aligned_img\18110004\30.png 330 270 446 407
+./aligned_img\18110004\300.png 333 262 451 401
+./aligned_img\18110004\301.png 337 262 453 400
+./aligned_img\18110004\302.png 334 264 453 399
+./aligned_img\18110004\303.png 341 267 455 399
+./aligned_img\18110004\304.png 344 266 455 398
+./aligned_img\18110004\305.png 345 260 458 397
+./aligned_img\18110004\306.png 349 262 460 397
+./aligned_img\18110004\307.png 354 265 461 397
+./aligned_img\18110004\308.png 359 270 465 397
+./aligned_img\18110004\309.png 353 269 465 397
+./aligned_img\18110004\31.png 328 271 447 406
+./aligned_img\18110004\310.png 353 269 465 397
+./aligned_img\18110004\311.png 357 262 468 399
+./aligned_img\18110004\312.png 355 270 466 396
+./aligned_img\18110004\313.png 353 258 467 398
+./aligned_img\18110004\314.png 352 255 469 397
+./aligned_img\18110004\315.png 354 257 468 393
+./aligned_img\18110004\316.png 358 265 464 392
+./aligned_img\18110004\317.png 348 256 463 393
+./aligned_img\18110004\318.png 352 264 462 393
+./aligned_img\18110004\319.png 343 259 465 402
+./aligned_img\18110004\32.png 330 262 446 408
+./aligned_img\18110004\320.png 344 264 456 393
+./aligned_img\18110004\321.png 335 258 459 401
+./aligned_img\18110004\322.png 333 258 457 402
+./aligned_img\18110004\323.png 335 259 455 399
+./aligned_img\18110004\324.png 336 260 450 395
+./aligned_img\18110004\325.png 337 261 454 398
+./aligned_img\18110004\326.png 338 264 451 395
+./aligned_img\18110004\327.png 336 261 451 395
+./aligned_img\18110004\328.png 334 264 449 394
+./aligned_img\18110004\329.png 336 262 451 396
+./aligned_img\18110004\33.png 326 269 444 408
+./aligned_img\18110004\330.png 336 260 451 395
+./aligned_img\18110004\331.png 335 261 449 395
+./aligned_img\18110004\332.png 337 265 448 394
+./aligned_img\18110004\333.png 337 259 452 394
+./aligned_img\18110004\334.png 333 259 451 391
+./aligned_img\18110004\335.png 341 261 448 387
+./aligned_img\18110004\336.png 339 254 452 379
+./aligned_img\18110004\337.png 335 246 455 379
+./aligned_img\18110004\338.png 340 247 455 374
+./aligned_img\18110004\339.png 343 246 456 372
+./aligned_img\18110004\34.png 326 269 443 408
+./aligned_img\18110004\340.png 342 249 447 364
+./aligned_img\18110004\341.png 343 245 452 364
+./aligned_img\18110004\342.png 343 244 451 360
+./aligned_img\18110004\343.png 345 242 451 360
+./aligned_img\18110004\344.png 344 241 449 359
+./aligned_img\18110004\345.png 344 242 450 363
+./aligned_img\18110004\346.png 342 239 449 359
+./aligned_img\18110004\347.png 339 237 451 362
+./aligned_img\18110004\348.png 340 237 450 359
+./aligned_img\18110004\349.png 339 237 450 360
+./aligned_img\18110004\35.png 326 270 443 408
+./aligned_img\18110004\350.png 341 239 449 360
+./aligned_img\18110004\351.png 343 242 448 361
+./aligned_img\18110004\352.png 342 243 449 358
+./aligned_img\18110004\353.png 343 249 444 364
+./aligned_img\18110004\354.png 336 252 443 367
+./aligned_img\18110004\355.png 337 251 448 374
+./aligned_img\18110004\356.png 336 251 450 376
+./aligned_img\18110004\357.png 333 253 449 378
+./aligned_img\18110004\358.png 332 258 444 380
+./aligned_img\18110004\359.png 328 257 446 386
+./aligned_img\18110004\36.png 325 266 443 408
+./aligned_img\18110004\360.png 331 260 446 388
+./aligned_img\18110004\361.png 329 260 446 390
+./aligned_img\18110004\362.png 327 257 443 391
+./aligned_img\18110004\363.png 328 257 444 391
+./aligned_img\18110004\364.png 329 256 444 389
+./aligned_img\18110004\365.png 327 258 446 390
+./aligned_img\18110004\366.png 332 257 449 389
+./aligned_img\18110004\367.png 332 255 450 388
+./aligned_img\18110004\368.png 333 257 451 390
+./aligned_img\18110004\369.png 331 259 448 393
+./aligned_img\18110004\37.png 326 270 443 408
+./aligned_img\18110004\370.png 328 258 447 394
+./aligned_img\18110004\371.png 333 261 451 398
+./aligned_img\18110004\372.png 334 266 448 401
+./aligned_img\18110004\373.png 335 268 452 408
+./aligned_img\18110004\374.png 336 272 452 410
+./aligned_img\18110004\375.png 334 275 452 417
+./aligned_img\18110004\376.png 337 283 452 419
+./aligned_img\18110004\377.png 333 281 454 425
+./aligned_img\18110004\378.png 336 288 453 424
+./aligned_img\18110004\379.png 339 291 453 422
+./aligned_img\18110004\38.png 321 264 441 409
+./aligned_img\18110004\380.png 337 289 453 427
+./aligned_img\18110004\381.png 336 292 453 428
+./aligned_img\18110004\382.png 334 293 453 432
+./aligned_img\18110004\383.png 336 292 454 434
+./aligned_img\18110004\384.png 338 292 454 432
+./aligned_img\18110004\385.png 332 286 454 431
+./aligned_img\18110004\386.png 337 288 454 427
+./aligned_img\18110004\387.png 336 288 453 425
+./aligned_img\18110004\388.png 332 282 455 428
+./aligned_img\18110004\389.png 332 280 453 421
+./aligned_img\18110004\39.png 322 268 437 407
+./aligned_img\18110004\390.png 337 282 451 419
+./aligned_img\18110004\391.png 334 277 453 415
+./aligned_img\18110004\392.png 332 275 448 409
+./aligned_img\18110004\393.png 332 269 451 408
+./aligned_img\18110004\394.png 331 264 452 408
+./aligned_img\18110004\395.png 349 265 457 402
+./aligned_img\18110004\396.png 347 259 457 398
+./aligned_img\18110004\397.png 345 261 457 395
+./aligned_img\18110004\398.png 334 258 452 394
+./aligned_img\18110004\399.png 336 258 452 392
+./aligned_img\18110004\4.png 329 276 445 414
+./aligned_img\18110004\40.png 319 262 440 408
+./aligned_img\18110004\400.png 336 258 452 391
+./aligned_img\18110004\401.png 337 258 454 392
+./aligned_img\18110004\402.png 337 260 450 392
+./aligned_img\18110004\403.png 333 258 451 392
+./aligned_img\18110004\404.png 333 256 453 393
+./aligned_img\18110004\405.png 333 257 452 394
+./aligned_img\18110004\406.png 335 257 453 393
+./aligned_img\18110004\407.png 338 260 454 393
+./aligned_img\18110004\408.png 338 262 451 392
+./aligned_img\18110004\409.png 336 257 454 396
+./aligned_img\18110004\41.png 323 269 438 408
+./aligned_img\18110004\410.png 335 257 455 393
+./aligned_img\18110004\411.png 340 261 454 394
+./aligned_img\18110004\412.png 339 260 456 396
+./aligned_img\18110004\413.png 338 258 452 393
+./aligned_img\18110004\414.png 336 259 454 395
+./aligned_img\18110004\415.png 349 261 460 394
+./aligned_img\18110004\416.png 340 261 454 399
+./aligned_img\18110004\417.png 339 260 457 399
+./aligned_img\18110004\418.png 338 262 455 397
+./aligned_img\18110004\419.png 337 259 458 400
+./aligned_img\18110004\42.png 322 264 439 410
+./aligned_img\18110004\420.png 350 259 462 398
+./aligned_img\18110004\421.png 364 262 467 396
+./aligned_img\18110004\422.png 356 262 465 399
+./aligned_img\18110004\423.png 361 263 466 397
+./aligned_img\18110004\424.png 340 258 454 395
+./aligned_img\18110004\425.png 338 259 459 403
+./aligned_img\18110004\426.png 341 266 454 399
+./aligned_img\18110004\427.png 340 266 453 399
+./aligned_img\18110004\428.png 341 267 454 398
+./aligned_img\18110004\429.png 340 266 453 398
+./aligned_img\18110004\43.png 318 269 434 406
+./aligned_img\18110004\430.png 338 267 453 400
+./aligned_img\18110004\431.png 342 268 454 395
+./aligned_img\18110004\432.png 338 264 452 399
+./aligned_img\18110004\433.png 340 267 453 398
+./aligned_img\18110004\434.png 359 264 464 398
+./aligned_img\18110004\435.png 337 263 453 400
+./aligned_img\18110004\436.png 340 267 453 398
+./aligned_img\18110004\437.png 360 265 463 396
+./aligned_img\18110004\438.png 337 259 458 401
+./aligned_img\18110004\439.png 337 258 458 399
+./aligned_img\18110004\44.png 323 265 435 406
+./aligned_img\18110004\440.png 337 258 456 398
+./aligned_img\18110004\441.png 339 260 455 395
+./aligned_img\18110004\442.png 339 258 455 388
+./aligned_img\18110004\443.png 337 255 456 387
+./aligned_img\18110004\444.png 340 259 452 384
+./aligned_img\18110004\445.png 341 260 452 383
+./aligned_img\18110004\446.png 339 252 455 383
+./aligned_img\18110004\447.png 335 254 453 384
+./aligned_img\18110004\448.png 342 256 454 380
+./aligned_img\18110004\449.png 338 251 455 382
+./aligned_img\18110004\45.png 320 271 435 406
+./aligned_img\18110004\450.png 336 249 454 382
+./aligned_img\18110004\451.png 347 256 449 375
+./aligned_img\18110004\452.png 341 254 453 376
+./aligned_img\18110004\453.png 342 255 452 375
+./aligned_img\18110004\454.png 340 249 455 375
+./aligned_img\18110004\455.png 342 247 459 379
+./aligned_img\18110004\456.png 343 246 458 374
+./aligned_img\18110004\457.png 347 253 451 365
+./aligned_img\18110004\458.png 344 248 453 366
+./aligned_img\18110004\459.png 350 248 455 366
+./aligned_img\18110004\46.png 320 262 436 410
+./aligned_img\18110004\460.png 348 248 455 365
+./aligned_img\18110004\461.png 347 246 454 365
+./aligned_img\18110004\462.png 348 252 453 365
+./aligned_img\18110004\463.png 348 251 453 362
+./aligned_img\18110004\464.png 347 247 451 359
+./aligned_img\18110004\465.png 347 246 450 359
+./aligned_img\18110004\466.png 347 248 449 359
+./aligned_img\18110004\467.png 343 240 458 373
+./aligned_img\18110004\468.png 342 241 456 371
+./aligned_img\18110004\469.png 343 242 456 370
+./aligned_img\18110004\47.png 318 271 430 403
+./aligned_img\18110004\470.png 348 247 453 362
+./aligned_img\18110004\471.png 347 247 453 362
+./aligned_img\18110004\472.png 346 247 453 364
+./aligned_img\18110004\473.png 345 249 452 366
+./aligned_img\18110004\474.png 344 251 453 373
+./aligned_img\18110004\475.png 344 250 453 373
+./aligned_img\18110004\476.png 344 251 453 374
+./aligned_img\18110004\477.png 345 253 454 376
+./aligned_img\18110004\478.png 340 252 455 376
+./aligned_img\18110004\479.png 343 254 457 379
+./aligned_img\18110004\48.png 312 264 432 406
+./aligned_img\18110004\480.png 340 255 456 381
+./aligned_img\18110004\481.png 341 252 458 383
+./aligned_img\18110004\482.png 343 259 454 383
+./aligned_img\18110004\483.png 341 259 458 391
+./aligned_img\18110004\484.png 341 260 457 392
+./aligned_img\18110004\485.png 342 261 458 394
+./aligned_img\18110004\486.png 340 258 459 396
+./aligned_img\18110004\487.png 342 262 456 393
+./aligned_img\18110004\488.png 341 263 457 398
+./aligned_img\18110004\489.png 342 263 458 398
+./aligned_img\18110004\49.png 308 267 428 409
+./aligned_img\18110004\490.png 340 262 460 403
+./aligned_img\18110004\491.png 357 262 465 399
+./aligned_img\18110004\492.png 341 270 454 400
+./aligned_img\18110004\493.png 340 270 454 403
+./aligned_img\18110004\494.png 357 266 464 400
+./aligned_img\18110004\495.png 357 267 464 400
+./aligned_img\18110004\496.png 358 267 466 402
+./aligned_img\18110004\497.png 356 267 464 401
+./aligned_img\18110004\498.png 349 267 462 403
+./aligned_img\18110004\499.png 351 267 461 402
+./aligned_img\18110004\5.png 330 272 450 418
+./aligned_img\18110004\50.png 315 266 428 408
+./aligned_img\18110004\500.png 349 265 463 408
+./aligned_img\18110004\51.png 317 268 428 409
+./aligned_img\18110004\52.png 311 264 424 410
+./aligned_img\18110004\53.png 304 271 421 410
+./aligned_img\18110004\54.png 311 268 425 411
+./aligned_img\18110004\55.png 310 270 425 411
+./aligned_img\18110004\56.png 308 270 422 411
+./aligned_img\18110004\57.png 307 270 420 413
+./aligned_img\18110004\58.png 306 273 419 412
+./aligned_img\18110004\59.png 306 274 419 411
+./aligned_img\18110004\6.png 335 271 456 417
+./aligned_img\18110004\60.png 307 276 419 409
+./aligned_img\18110004\61.png 308 276 420 411
+./aligned_img\18110004\62.png 308 277 420 410
+./aligned_img\18110004\63.png 309 275 422 410
+./aligned_img\18110004\64.png 309 275 423 412
+./aligned_img\18110004\65.png 306 274 423 413
+./aligned_img\18110004\66.png 310 275 427 412
+./aligned_img\18110004\67.png 318 279 430 410
+./aligned_img\18110004\68.png 320 277 438 413
+./aligned_img\18110004\69.png 321 277 442 410
+./aligned_img\18110004\7.png 341 271 461 418
+./aligned_img\18110004\70.png 328 277 447 410
+./aligned_img\18110004\71.png 338 279 451 411
+./aligned_img\18110004\72.png 340 273 458 412
+./aligned_img\18110004\73.png 345 270 463 413
+./aligned_img\18110004\74.png 348 276 461 411
+./aligned_img\18110004\75.png 354 272 468 411
+./aligned_img\18110004\76.png 352 266 467 413
+./aligned_img\18110004\77.png 352 264 470 413
+./aligned_img\18110004\78.png 360 272 473 411
+./aligned_img\18110004\79.png 359 274 479 412
+./aligned_img\18110004\8.png 339 271 462 424
+./aligned_img\18110004\80.png 356 274 470 408
+./aligned_img\18110004\81.png 354 265 470 411
+./aligned_img\18110004\82.png 355 273 471 408
+./aligned_img\18110004\83.png 359 272 472 408
+./aligned_img\18110004\84.png 352 263 473 410
+./aligned_img\18110004\85.png 357 271 470 407
+./aligned_img\18110004\86.png 359 270 471 408
+./aligned_img\18110004\87.png 346 272 462 407
+./aligned_img\18110004\88.png 343 274 459 406
+./aligned_img\18110004\89.png 343 271 458 405
+./aligned_img\18110004\9.png 336 271 459 430
+./aligned_img\18110004\90.png 340 269 458 408
+./aligned_img\18110004\91.png 335 266 454 408
+./aligned_img\18110004\92.png 333 267 452 409
+./aligned_img\18110004\93.png 336 267 451 406
+./aligned_img\18110004\94.png 336 270 449 406
+./aligned_img\18110004\95.png 334 266 451 405
+./aligned_img\18110004\96.png 334 268 451 406
+./aligned_img\18110004\97.png 334 268 450 405
+./aligned_img\18110004\98.png 333 267 450 405
+./aligned_img\18110004\99.png 333 267 451 404
+./aligned_img\18110321\1 - Copy.png 187 203 356 430
+./aligned_img\18110321\1.png 187 203 356 430
+./aligned_img\18110321\10 - Copy.png 151 206 309 415
+./aligned_img\18110321\10.png 151 206 309 415
+./aligned_img\18110321\100 - Copy.png 99 177 303 405
+./aligned_img\18110321\100.png 99 177 303 405
+./aligned_img\18110321\101 - Copy.png 96 173 305 407
+./aligned_img\18110321\101.png 96 173 305 407
+./aligned_img\18110321\102 - Copy.png 105 185 305 407
+./aligned_img\18110321\102.png 105 185 305 407
+./aligned_img\18110321\103 - Copy.png 105 186 306 407
+./aligned_img\18110321\103.png 105 186 306 407
+./aligned_img\18110321\104 - Copy.png 107 185 308 404
+./aligned_img\18110321\104.png 107 185 308 404
+./aligned_img\18110321\105 - Copy.png 107 184 308 402
+./aligned_img\18110321\105.png 107 184 308 402
+./aligned_img\18110321\106 - Copy.png 109 187 308 407
+./aligned_img\18110321\106.png 109 187 308 407
+./aligned_img\18110321\107 - Copy.png 105 187 304 403
+./aligned_img\18110321\107.png 105 187 304 403
+./aligned_img\18110321\108 - Copy.png 105 185 307 402
+./aligned_img\18110321\108.png 105 185 307 402
+./aligned_img\18110321\109 - Copy.png 105 187 305 403
+./aligned_img\18110321\109.png 105 187 305 403
+./aligned_img\18110321\11 - Copy.png 146 203 305 418
+./aligned_img\18110321\11.png 146 203 305 418
+./aligned_img\18110321\110 - Copy.png 105 184 309 402
+./aligned_img\18110321\110.png 105 184 309 402
+./aligned_img\18110321\111 - Copy.png 106 186 306 401
+./aligned_img\18110321\111.png 106 186 306 401
+./aligned_img\18110321\112 - Copy.png 105 183 309 404
+./aligned_img\18110321\112.png 105 183 309 404
+./aligned_img\18110321\113 - Copy.png 104 181 310 404
+./aligned_img\18110321\113.png 104 181 310 404
+./aligned_img\18110321\114 - Copy.png 106 180 310 404
+./aligned_img\18110321\114.png 106 180 310 404
+./aligned_img\18110321\115 - Copy.png 107 191 297 404
+./aligned_img\18110321\115.png 107 191 297 404
+./aligned_img\18110321\116 - Copy.png 107 180 307 401
+./aligned_img\18110321\116.png 107 180 307 401
+./aligned_img\18110321\117 - Copy.png 116 186 306 407
+./aligned_img\18110321\117.png 116 186 306 407
+./aligned_img\18110321\118 - Copy.png 111 188 306 411
+./aligned_img\18110321\118.png 111 188 306 411
+./aligned_img\18110321\119 - Copy.png 112 193 305 414
+./aligned_img\18110321\119.png 112 193 305 414
+./aligned_img\18110321\12 - Copy.png 140 204 297 419
+./aligned_img\18110321\12.png 140 204 297 419
+./aligned_img\18110321\120 - Copy.png 121 194 306 414
+./aligned_img\18110321\120.png 121 194 306 414
+./aligned_img\18110321\121 - Copy.png 117 197 308 427
+./aligned_img\18110321\121.png 117 197 308 427
+./aligned_img\18110321\122 - Copy.png 117 199 309 431
+./aligned_img\18110321\122.png 117 199 309 431
+./aligned_img\18110321\123 - Copy.png 122 209 307 437
+./aligned_img\18110321\123.png 122 209 307 437
+./aligned_img\18110321\124 - Copy.png 121 213 308 440
+./aligned_img\18110321\124.png 121 213 308 440
+./aligned_img\18110321\125 - Copy.png 130 224 311 451
+./aligned_img\18110321\125.png 130 224 311 451
+./aligned_img\18110321\126 - Copy.png 130 231 312 458
+./aligned_img\18110321\126.png 130 231 312 458
+./aligned_img\18110321\127 - Copy.png 135 242 313 463
+./aligned_img\18110321\127.png 135 242 313 463
+./aligned_img\18110321\128 - Copy.png 137 252 312 466
+./aligned_img\18110321\128.png 137 252 312 466
+./aligned_img\18110321\129 - Copy.png 140 260 313 468
+./aligned_img\18110321\129.png 140 260 313 468
+./aligned_img\18110321\13 - Copy.png 131 204 296 422
+./aligned_img\18110321\13.png 131 204 296 422
+./aligned_img\18110321\130 - Copy.png 130 266 318 486
+./aligned_img\18110321\130.png 130 266 318 486
+./aligned_img\18110321\131 - Copy.png 126 258 322 486
+./aligned_img\18110321\131.png 126 258 322 486
+./aligned_img\18110321\132 - Copy.png 135 277 324 492
+./aligned_img\18110321\132.png 135 277 324 492
+./aligned_img\18110321\133 - Copy.png 134 282 323 500
+./aligned_img\18110321\133.png 134 282 323 500
+./aligned_img\18110321\134 - Copy.png 138 290 327 493
+./aligned_img\18110321\134.png 138 290 327 493
+./aligned_img\18110321\135 - Copy.png 127 293 319 515
+./aligned_img\18110321\135.png 127 293 319 515
+./aligned_img\18110321\136 - Copy.png 121 292 319 515
+./aligned_img\18110321\136.png 121 292 319 515
+./aligned_img\18110321\137 - Copy.png 121 293 323 520
+./aligned_img\18110321\137.png 121 293 323 520
+./aligned_img\18110321\138 - Copy.png 126 298 339 521
+./aligned_img\18110321\138.png 126 298 339 521
+./aligned_img\18110321\139 - Copy.png 125 300 338 521
+./aligned_img\18110321\139.png 125 300 338 521
+./aligned_img\18110321\14 - Copy.png 121 210 285 423
+./aligned_img\18110321\14.png 121 210 285 423
+./aligned_img\18110321\140 - Copy.png 120 289 332 525
+./aligned_img\18110321\140.png 120 289 332 525
+./aligned_img\18110321\141 - Copy.png 123 292 330 524
+./aligned_img\18110321\141.png 123 292 330 524
+./aligned_img\18110321\142 - Copy.png 132 294 334 511
+./aligned_img\18110321\142.png 132 294 334 511
+./aligned_img\18110321\143 - Copy.png 128 293 334 523
+./aligned_img\18110321\143.png 128 293 334 523
+./aligned_img\18110321\144 - Copy.png 130 292 333 518
+./aligned_img\18110321\144.png 130 292 333 518
+./aligned_img\18110321\145 - Copy.png 133 287 333 516
+./aligned_img\18110321\145.png 133 287 333 516
+./aligned_img\18110321\146 - Copy.png 132 285 330 510
+./aligned_img\18110321\146.png 132 285 330 510
+./aligned_img\18110321\147 - Copy.png 137 280 330 491
+./aligned_img\18110321\147.png 137 280 330 491
+./aligned_img\18110321\148 - Copy.png 139 272 325 482
+./aligned_img\18110321\148.png 139 272 325 482
+./aligned_img\18110321\149 - Copy.png 141 256 326 476
+./aligned_img\18110321\149.png 141 256 326 476
+./aligned_img\18110321\15 - Copy.png 111 211 275 424
+./aligned_img\18110321\15.png 111 211 275 424
+./aligned_img\18110321\150 - Copy.png 141 240 326 462
+./aligned_img\18110321\150.png 141 240 326 462
+./aligned_img\18110321\151 - Copy.png 139 224 323 449
+./aligned_img\18110321\151.png 139 224 323 449
+./aligned_img\18110321\152 - Copy.png 142 216 322 434
+./aligned_img\18110321\152.png 142 216 322 434
+./aligned_img\18110321\153 - Copy.png 142 198 324 425
+./aligned_img\18110321\153.png 142 198 324 425
+./aligned_img\18110321\154 - Copy.png 148 196 323 412
+./aligned_img\18110321\154.png 148 196 323 412
+./aligned_img\18110321\155 - Copy.png 146 186 323 405
+./aligned_img\18110321\155.png 146 186 323 405
+./aligned_img\18110321\156 - Copy.png 147 173 326 397
+./aligned_img\18110321\156.png 147 173 326 397
+./aligned_img\18110321\157 - Copy.png 153 175 324 381
+./aligned_img\18110321\157.png 153 175 324 381
+./aligned_img\18110321\158 - Copy.png 152 172 324 373
+./aligned_img\18110321\158.png 152 172 324 373
+./aligned_img\18110321\159 - Copy.png 159 164 325 366
+./aligned_img\18110321\159.png 159 164 325 366
+./aligned_img\18110321\16 - Copy.png 109 214 275 425
+./aligned_img\18110321\16.png 109 214 275 425
+./aligned_img\18110321\160 - Copy.png 161 168 327 355
+./aligned_img\18110321\160.png 161 168 327 355
+./aligned_img\18110321\161 - Copy.png 164 162 324 346
+./aligned_img\18110321\161.png 164 162 324 346
+./aligned_img\18110321\162 - Copy.png 165 164 326 342
+./aligned_img\18110321\162.png 165 164 326 342
+./aligned_img\18110321\163 - Copy.png 166 163 329 342
+./aligned_img\18110321\163.png 166 163 329 342
+./aligned_img\18110321\164 - Copy.png 168 159 325 335
+./aligned_img\18110321\164.png 168 159 325 335
+./aligned_img\18110321\165 - Copy.png 169 167 322 330
+./aligned_img\18110321\165.png 169 167 322 330
+./aligned_img\18110321\166 - Copy.png 172 169 322 329
+./aligned_img\18110321\166.png 172 169 322 329
+./aligned_img\18110321\167 - Copy.png 170 162 324 331
+./aligned_img\18110321\167.png 170 162 324 331
+./aligned_img\18110321\168 - Copy.png 170 159 326 332
+./aligned_img\18110321\168.png 170 159 326 332
+./aligned_img\18110321\169 - Copy.png 170 164 327 335
+./aligned_img\18110321\169.png 170 164 327 335
+./aligned_img\18110321\17 - Copy.png 111 215 272 425
+./aligned_img\18110321\17.png 111 215 272 425
+./aligned_img\18110321\170 - Copy.png 170 162 328 335
+./aligned_img\18110321\170.png 170 162 328 335
+./aligned_img\18110321\171 - Copy.png 170 159 325 335
+./aligned_img\18110321\171.png 170 159 325 335
+./aligned_img\18110321\172 - Copy.png 170 161 324 335
+./aligned_img\18110321\172.png 170 161 324 335
+./aligned_img\18110321\173 - Copy.png 169 164 326 338
+./aligned_img\18110321\173.png 169 164 326 338
+./aligned_img\18110321\174 - Copy.png 167 164 326 340
+./aligned_img\18110321\174.png 167 164 326 340
+./aligned_img\18110321\175 - Copy.png 169 166 326 338
+./aligned_img\18110321\175.png 169 166 326 338
+./aligned_img\18110321\176 - Copy.png 169 162 327 339
+./aligned_img\18110321\176.png 169 162 327 339
+./aligned_img\18110321\177 - Copy.png 168 162 327 341
+./aligned_img\18110321\177.png 168 162 327 341
+./aligned_img\18110321\178 - Copy.png 168 161 330 345
+./aligned_img\18110321\178.png 168 161 330 345
+./aligned_img\18110321\179 - Copy.png 171 163 330 342
+./aligned_img\18110321\179.png 171 163 330 342
+./aligned_img\18110321\18 - Copy.png 109 203 278 427
+./aligned_img\18110321\18.png 109 203 278 427
+./aligned_img\18110321\180 - Copy.png 172 163 333 345
+./aligned_img\18110321\180.png 172 163 333 345
+./aligned_img\18110321\181 - Copy.png 175 159 338 348
+./aligned_img\18110321\181.png 175 159 338 348
+./aligned_img\18110321\182 - Copy.png 179 159 343 350
+./aligned_img\18110321\182.png 179 159 343 350
+./aligned_img\18110321\183 - Copy.png 184 162 343 355
+./aligned_img\18110321\183.png 184 162 343 355
+./aligned_img\18110321\184 - Copy.png 192 159 351 353
+./aligned_img\18110321\184.png 192 159 351 353
+./aligned_img\18110321\185 - Copy.png 208 167 363 365
+./aligned_img\18110321\185.png 208 167 363 365
+./aligned_img\18110321\186 - Copy.png 219 170 374 370
+./aligned_img\18110321\186.png 219 170 374 370
+./aligned_img\18110321\187 - Copy.png 222 175 374 374
+./aligned_img\18110321\187.png 222 175 374 374
+./aligned_img\18110321\188 - Copy.png 230 180 380 374
+./aligned_img\18110321\188.png 230 180 380 374
+./aligned_img\18110321\189 - Copy.png 233 180 386 379
+./aligned_img\18110321\189.png 233 180 386 379
+./aligned_img\18110321\19 - Copy.png 104 208 270 426
+./aligned_img\18110321\19.png 104 208 270 426
+./aligned_img\18110321\190 - Copy.png 236 177 390 379
+./aligned_img\18110321\190.png 236 177 390 379
+./aligned_img\18110321\191 - Copy.png 244 182 393 380
+./aligned_img\18110321\191.png 244 182 393 380
+./aligned_img\18110321\192 - Copy.png 249 186 395 379
+./aligned_img\18110321\192.png 249 186 395 379
+./aligned_img\18110321\193 - Copy.png 248 185 397 381
+./aligned_img\18110321\193.png 248 185 397 381
+./aligned_img\18110321\194 - Copy.png 246 183 398 384
+./aligned_img\18110321\194.png 246 183 398 384
+./aligned_img\18110321\195 - Copy.png 245 182 393 379
+./aligned_img\18110321\195.png 245 182 393 379
+./aligned_img\18110321\196 - Copy.png 246 181 395 382
+./aligned_img\18110321\196.png 246 181 395 382
+./aligned_img\18110321\197 - Copy.png 246 185 396 383
+./aligned_img\18110321\197.png 246 185 396 383
+./aligned_img\18110321\198 - Copy.png 246 184 396 383
+./aligned_img\18110321\198.png 246 184 396 383
+./aligned_img\18110321\199 - Copy.png 246 183 390 382
+./aligned_img\18110321\199.png 246 183 390 382
+./aligned_img\18110321\2 - Copy.png 186 205 345 426
+./aligned_img\18110321\2.png 186 205 345 426
+./aligned_img\18110321\20 - Copy.png 104 201 277 427
+./aligned_img\18110321\20.png 104 201 277 427
+./aligned_img\18110321\200 - Copy.png 243 186 389 383
+./aligned_img\18110321\200.png 243 186 389 383
+./aligned_img\18110321\201 - Copy.png 237 175 391 384
+./aligned_img\18110321\201.png 237 175 391 384
+./aligned_img\18110321\202 - Copy.png 233 183 384 382
+./aligned_img\18110321\202.png 233 183 384 382
+./aligned_img\18110321\203 - Copy.png 227 179 380 381
+./aligned_img\18110321\203.png 227 179 380 381
+./aligned_img\18110321\204 - Copy.png 221 171 378 381
+./aligned_img\18110321\204.png 221 171 378 381
+./aligned_img\18110321\205 - Copy.png 202 168 366 381
+./aligned_img\18110321\205.png 202 168 366 381
+./aligned_img\18110321\206 - Copy.png 196 171 361 376
+./aligned_img\18110321\206.png 196 171 361 376
+./aligned_img\18110321\207 - Copy.png 187 169 351 375
+./aligned_img\18110321\207.png 187 169 351 375
+./aligned_img\18110321\208 - Copy.png 177 172 338 378
+./aligned_img\18110321\208.png 177 172 338 378
+./aligned_img\18110321\209 - Copy.png 168 178 328 376
+./aligned_img\18110321\209.png 168 178 328 376
+./aligned_img\18110321\21 - Copy.png 102 201 277 427
+./aligned_img\18110321\21.png 102 201 277 427
+./aligned_img\18110321\210 - Copy.png 158 178 323 381
+./aligned_img\18110321\210.png 158 178 323 381
+./aligned_img\18110321\211 - Copy.png 145 179 311 381
+./aligned_img\18110321\211.png 145 179 311 381
+./aligned_img\18110321\212 - Copy.png 134 180 304 384
+./aligned_img\18110321\212.png 134 180 304 384
+./aligned_img\18110321\213 - Copy.png 128 183 297 386
+./aligned_img\18110321\213.png 128 183 297 386
+./aligned_img\18110321\214 - Copy.png 119 184 290 387
+./aligned_img\18110321\214.png 119 184 290 387
+./aligned_img\18110321\215 - Copy.png 114 184 286 390
+./aligned_img\18110321\215.png 114 184 286 390
+./aligned_img\18110321\216 - Copy.png 107 186 279 391
+./aligned_img\18110321\216.png 107 186 279 391
+./aligned_img\18110321\217 - Copy.png 104 190 272 391
+./aligned_img\18110321\217.png 104 190 272 391
+./aligned_img\18110321\218 - Copy.png 98 193 268 393
+./aligned_img\18110321\218.png 98 193 268 393
+./aligned_img\18110321\219 - Copy.png 95 194 267 395
+./aligned_img\18110321\219.png 95 194 267 395
+./aligned_img\18110321\22 - Copy.png 104 209 271 426
+./aligned_img\18110321\22.png 104 209 271 426
+./aligned_img\18110321\220 - Copy.png 99 195 265 390
+./aligned_img\18110321\220.png 99 195 265 390
+./aligned_img\18110321\221 - Copy.png 98 195 263 392
+./aligned_img\18110321\221.png 98 195 263 392
+./aligned_img\18110321\222 - Copy.png 95 196 260 391
+./aligned_img\18110321\222.png 95 196 260 391
+./aligned_img\18110321\223 - Copy.png 93 199 257 391
+./aligned_img\18110321\223.png 93 199 257 391
+./aligned_img\18110321\224 - Copy.png 90 199 255 393
+./aligned_img\18110321\224.png 90 199 255 393
+./aligned_img\18110321\225 - Copy.png 89 197 256 395
+./aligned_img\18110321\225.png 89 197 256 395
+./aligned_img\18110321\226 - Copy.png 89 197 256 395
+./aligned_img\18110321\226.png 89 197 256 395
+./aligned_img\18110321\227 - Copy.png 89 198 256 394
+./aligned_img\18110321\227.png 89 198 256 394
+./aligned_img\18110321\228 - Copy.png 92 196 257 393
+./aligned_img\18110321\228.png 92 196 257 393
+./aligned_img\18110321\229 - Copy.png 90 197 256 394
+./aligned_img\18110321\229.png 90 197 256 394
+./aligned_img\18110321\23 - Copy.png 107 199 280 430
+./aligned_img\18110321\23.png 107 199 280 430
+./aligned_img\18110321\230 - Copy.png 87 199 254 397
+./aligned_img\18110321\230.png 87 199 254 397
+./aligned_img\18110321\231 - Copy.png 89 199 255 396
+./aligned_img\18110321\231.png 89 199 255 396
+./aligned_img\18110321\232 - Copy.png 88 200 254 398
+./aligned_img\18110321\232.png 88 200 254 398
+./aligned_img\18110321\233 - Copy.png 87 199 255 399
+./aligned_img\18110321\233.png 87 199 255 399
+./aligned_img\18110321\234 - Copy.png 89 199 256 399
+./aligned_img\18110321\234.png 89 199 256 399
+./aligned_img\18110321\235 - Copy.png 88 201 255 396
+./aligned_img\18110321\235.png 88 201 255 396
+./aligned_img\18110321\236 - Copy.png 88 201 256 397
+./aligned_img\18110321\236.png 88 201 256 397
+./aligned_img\18110321\237 - Copy.png 88 201 256 399
+./aligned_img\18110321\237.png 88 201 256 399
+./aligned_img\18110321\238 - Copy.png 89 200 258 400
+./aligned_img\18110321\238.png 89 200 258 400
+./aligned_img\18110321\239 - Copy.png 89 200 258 399
+./aligned_img\18110321\239.png 89 200 258 399
+./aligned_img\18110321\24 - Copy.png 106 208 275 428
+./aligned_img\18110321\24.png 106 208 275 428
+./aligned_img\18110321\240 - Copy.png 90 198 260 400
+./aligned_img\18110321\240.png 90 198 260 400
+./aligned_img\18110321\241 - Copy.png 90 199 259 399
+./aligned_img\18110321\241.png 90 199 259 399
+./aligned_img\18110321\242 - Copy.png 91 199 260 400
+./aligned_img\18110321\242.png 91 199 260 400
+./aligned_img\18110321\243 - Copy.png 92 199 260 398
+./aligned_img\18110321\243.png 92 199 260 398
+./aligned_img\18110321\244 - Copy.png 93 197 262 398
+./aligned_img\18110321\244.png 93 197 262 398
+./aligned_img\18110321\245 - Copy.png 96 202 266 413
+./aligned_img\18110321\245.png 96 202 266 413
+./aligned_img\18110321\246 - Copy.png 94 199 266 405
+./aligned_img\18110321\246.png 94 199 266 405
+./aligned_img\18110321\247 - Copy.png 92 195 267 409
+./aligned_img\18110321\247.png 92 195 267 409
+./aligned_img\18110321\248 - Copy.png 93 200 266 409
+./aligned_img\18110321\248.png 93 200 266 409
+./aligned_img\18110321\249 - Copy.png 92 197 266 407
+./aligned_img\18110321\249.png 92 197 266 407
+./aligned_img\18110321\25 - Copy.png 107 201 282 429
+./aligned_img\18110321\25.png 107 201 282 429
+./aligned_img\18110321\250 - Copy.png 95 196 267 399
+./aligned_img\18110321\250.png 95 196 267 399
+./aligned_img\18110321\26 - Copy.png 109 204 280 431
+./aligned_img\18110321\26.png 109 204 280 431
+./aligned_img\18110321\27 - Copy.png 113 203 285 431
+./aligned_img\18110321\27.png 113 203 285 431
+./aligned_img\18110321\28 - Copy.png 116 203 287 432
+./aligned_img\18110321\28.png 116 203 287 432
+./aligned_img\18110321\29 - Copy.png 117 204 290 435
+./aligned_img\18110321\29.png 117 204 290 435
+./aligned_img\18110321\3 - Copy.png 184 205 342 426
+./aligned_img\18110321\3.png 184 205 342 426
+./aligned_img\18110321\30 - Copy.png 119 199 298 435
+./aligned_img\18110321\30.png 119 199 298 435
+./aligned_img\18110321\31 - Copy.png 122 206 297 437
+./aligned_img\18110321\31.png 122 206 297 437
+./aligned_img\18110321\32 - Copy.png 124 205 299 438
+./aligned_img\18110321\32.png 124 205 299 438
+./aligned_img\18110321\33 - Copy.png 128 203 302 440
+./aligned_img\18110321\33.png 128 203 302 440
+./aligned_img\18110321\34 - Copy.png 133 206 312 447
+./aligned_img\18110321\34.png 133 206 312 447
+./aligned_img\18110321\35 - Copy.png 136 213 310 443
+./aligned_img\18110321\35.png 136 213 310 443
+./aligned_img\18110321\36 - Copy.png 134 203 321 448
+./aligned_img\18110321\36.png 134 203 321 448
+./aligned_img\18110321\37 - Copy.png 139 204 324 449
+./aligned_img\18110321\37.png 139 204 324 449
+./aligned_img\18110321\38 - Copy.png 142 206 323 447
+./aligned_img\18110321\38.png 142 206 323 447
+./aligned_img\18110321\39 - Copy.png 143 204 330 451
+./aligned_img\18110321\39.png 143 204 330 451
+./aligned_img\18110321\4 - Copy.png 180 204 342 422
+./aligned_img\18110321\4.png 180 204 342 422
+./aligned_img\18110321\40 - Copy.png 145 205 333 451
+./aligned_img\18110321\40.png 145 205 333 451
+./aligned_img\18110321\41 - Copy.png 147 204 334 451
+./aligned_img\18110321\41.png 147 204 334 451
+./aligned_img\18110321\42 - Copy.png 147 203 337 453
+./aligned_img\18110321\42.png 147 203 337 453
+./aligned_img\18110321\43 - Copy.png 151 203 339 449
+./aligned_img\18110321\43.png 151 203 339 449
+./aligned_img\18110321\44 - Copy.png 152 201 342 449
+./aligned_img\18110321\44.png 152 201 342 449
+./aligned_img\18110321\45 - Copy.png 151 199 343 449
+./aligned_img\18110321\45.png 151 199 343 449
+./aligned_img\18110321\46 - Copy.png 153 199 344 449
+./aligned_img\18110321\46.png 153 199 344 449
+./aligned_img\18110321\47 - Copy.png 153 198 345 448
+./aligned_img\18110321\47.png 153 198 345 448
+./aligned_img\18110321\48 - Copy.png 161 202 343 447
+./aligned_img\18110321\48.png 161 202 343 447
+./aligned_img\18110321\49 - Copy.png 159 202 342 448
+./aligned_img\18110321\49.png 159 202 342 448
+./aligned_img\18110321\5 - Copy.png 171 207 337 423
+./aligned_img\18110321\5.png 171 207 337 423
+./aligned_img\18110321\50 - Copy.png 156 196 348 446
+./aligned_img\18110321\50.png 156 196 348 446
+./aligned_img\18110321\51 - Copy.png 156 194 352 456
+./aligned_img\18110321\51.png 156 194 352 456
+./aligned_img\18110321\52 - Copy.png 158 194 350 445
+./aligned_img\18110321\52.png 158 194 350 445
+./aligned_img\18110321\53 - Copy.png 161 189 348 442
+./aligned_img\18110321\53.png 161 189 348 442
+./aligned_img\18110321\54 - Copy.png 170 190 355 441
+./aligned_img\18110321\54.png 170 190 355 441
+./aligned_img\18110321\55 - Copy.png 174 192 357 440
+./aligned_img\18110321\55.png 174 192 357 440
+./aligned_img\18110321\56 - Copy.png 172 185 362 436
+./aligned_img\18110321\56.png 172 185 362 436
+./aligned_img\18110321\57 - Copy.png 171 184 365 437
+./aligned_img\18110321\57.png 171 184 365 437
+./aligned_img\18110321\58 - Copy.png 177 185 368 435
+./aligned_img\18110321\58.png 177 185 368 435
+./aligned_img\18110321\59 - Copy.png 183 185 374 435
+./aligned_img\18110321\59.png 183 185 374 435
+./aligned_img\18110321\6 - Copy.png 171 206 333 421
+./aligned_img\18110321\6.png 171 206 333 421
+./aligned_img\18110321\60 - Copy.png 191 187 375 435
+./aligned_img\18110321\60.png 191 187 375 435
+./aligned_img\18110321\61 - Copy.png 199 187 386 432
+./aligned_img\18110321\61.png 199 187 386 432
+./aligned_img\18110321\62 - Copy.png 201 188 390 436
+./aligned_img\18110321\62.png 201 188 390 436
+./aligned_img\18110321\63 - Copy.png 215 194 394 435
+./aligned_img\18110321\63.png 215 194 394 435
+./aligned_img\18110321\64 - Copy.png 223 196 407 438
+./aligned_img\18110321\64.png 223 196 407 438
+./aligned_img\18110321\65 - Copy.png 240 203 416 437
+./aligned_img\18110321\65.png 240 203 416 437
+./aligned_img\18110321\66 - Copy.png 249 203 424 435
+./aligned_img\18110321\66.png 249 203 424 435
+./aligned_img\18110321\67 - Copy.png 259 201 432 437
+./aligned_img\18110321\67.png 259 201 432 437
+./aligned_img\18110321\68 - Copy.png 269 209 435 434
+./aligned_img\18110321\68.png 269 209 435 434
+./aligned_img\18110321\69 - Copy.png 268 199 444 438
+./aligned_img\18110321\69.png 268 199 444 438
+./aligned_img\18110321\7 - Copy.png 169 200 327 417
+./aligned_img\18110321\7.png 169 200 327 417
+./aligned_img\18110321\70 - Copy.png 271 201 445 437
+./aligned_img\18110321\70.png 271 201 445 437
+./aligned_img\18110321\71 - Copy.png 278 209 444 435
+./aligned_img\18110321\71.png 278 209 444 435
+./aligned_img\18110321\72 - Copy.png 278 210 446 435
+./aligned_img\18110321\72.png 278 210 446 435
+./aligned_img\18110321\73 - Copy.png 259 200 431 428
+./aligned_img\18110321\73.png 259 200 431 428
+./aligned_img\18110321\74 - Copy.png 279 210 446 434
+./aligned_img\18110321\74.png 279 210 446 434
+./aligned_img\18110321\75 - Copy.png 274 208 446 437
+./aligned_img\18110321\75.png 274 208 446 437
+./aligned_img\18110321\76 - Copy.png 279 208 447 434
+./aligned_img\18110321\76.png 279 208 447 434
+./aligned_img\18110321\77 - Copy.png 277 207 445 435
+./aligned_img\18110321\77.png 277 207 445 435
+./aligned_img\18110321\78 - Copy.png 273 208 444 434
+./aligned_img\18110321\78.png 273 208 444 434
+./aligned_img\18110321\79 - Copy.png 282 211 445 431
+./aligned_img\18110321\79.png 282 211 445 431
+./aligned_img\18110321\8 - Copy.png 161 205 318 419
+./aligned_img\18110321\8.png 161 205 318 419
+./aligned_img\18110321\80 - Copy.png 277 208 445 435
+./aligned_img\18110321\80.png 277 208 445 435
+./aligned_img\18110321\81 - Copy.png 281 209 444 431
+./aligned_img\18110321\81.png 281 209 444 431
+./aligned_img\18110321\82 - Copy.png 275 200 448 430
+./aligned_img\18110321\82.png 275 200 448 430
+./aligned_img\18110321\83 - Copy.png 266 198 440 437
+./aligned_img\18110321\83.png 266 198 440 437
+./aligned_img\18110321\84 - Copy.png 265 203 433 431
+./aligned_img\18110321\84.png 265 203 433 431
+./aligned_img\18110321\85 - Copy.png 258 203 427 429
+./aligned_img\18110321\85.png 258 203 427 429
+./aligned_img\18110321\86 - Copy.png 247 197 416 422
+./aligned_img\18110321\86.png 247 197 416 422
+./aligned_img\18110321\87 - Copy.png 234 191 404 417
+./aligned_img\18110321\87.png 234 191 404 417
+./aligned_img\18110321\88 - Copy.png 222 186 396 415
+./aligned_img\18110321\88.png 222 186 396 415
+./aligned_img\18110321\89 - Copy.png 204 182 381 410
+./aligned_img\18110321\89.png 204 182 381 410
+./aligned_img\18110321\9 - Copy.png 160 208 311 418
+./aligned_img\18110321\9.png 160 208 311 418
+./aligned_img\18110321\90 - Copy.png 189 181 368 408
+./aligned_img\18110321\90.png 189 181 368 408
+./aligned_img\18110321\91 - Copy.png 180 187 351 406
+./aligned_img\18110321\91.png 180 187 351 406
+./aligned_img\18110321\92 - Copy.png 161 186 339 404
+./aligned_img\18110321\92.png 161 186 339 404
+./aligned_img\18110321\93 - Copy.png 136 188 323 404
+./aligned_img\18110321\93.png 136 188 323 404
+./aligned_img\18110321\94 - Copy.png 123 188 316 409
+./aligned_img\18110321\94.png 123 188 316 409
+./aligned_img\18110321\95 - Copy.png 123 183 317 407
+./aligned_img\18110321\95.png 123 183 317 407
+./aligned_img\18110321\96 - Copy.png 124 191 313 408
+./aligned_img\18110321\96.png 124 191 313 408
+./aligned_img\18110321\97 - Copy.png 105 181 308 411
+./aligned_img\18110321\97.png 105 181 308 411
+./aligned_img\18110321\98 - Copy.png 103 180 306 408
+./aligned_img\18110321\98.png 103 180 306 408
+./aligned_img\18110321\99 - Copy.png 101 181 303 408
+./aligned_img\18110321\99.png 101 181 303 408
+./aligned_img\18110326\1.png 227 207 409 428
+./aligned_img\18110326\10.png 226 206 409 428
+./aligned_img\18110326\100.png 248 208 422 413
+./aligned_img\18110326\101.png 246 204 423 414
+./aligned_img\18110326\102.png 247 208 422 414
+./aligned_img\18110326\103.png 243 201 425 421
+./aligned_img\18110326\104.png 246 208 422 414
+./aligned_img\18110326\105.png 250 207 426 425
+./aligned_img\18110326\106.png 249 208 426 426
+./aligned_img\18110326\107.png 240 193 429 428
+./aligned_img\18110326\108.png 242 195 429 429
+./aligned_img\18110326\109.png 240 193 429 429
+./aligned_img\18110326\11.png 226 207 409 429
+./aligned_img\18110326\110.png 246 209 423 416
+./aligned_img\18110326\111.png 246 207 423 417
+./aligned_img\18110326\112.png 240 202 423 421
+./aligned_img\18110326\113.png 240 207 419 419
+./aligned_img\18110326\114.png 236 204 417 419
+./aligned_img\18110326\115.png 231 196 421 429
+./aligned_img\18110326\116.png 229 196 419 429
+./aligned_img\18110326\117.png 230 201 409 423
+./aligned_img\18110326\118.png 226 208 410 434
+./aligned_img\18110326\119.png 226 200 406 424
+./aligned_img\18110326\12.png 226 207 409 428
+./aligned_img\18110326\120.png 225 202 402 424
+./aligned_img\18110326\121.png 224 201 403 423
+./aligned_img\18110326\122.png 220 202 402 432
+./aligned_img\18110326\123.png 218 198 402 430
+./aligned_img\18110326\124.png 222 200 401 429
+./aligned_img\18110326\125.png 216 195 400 432
+./aligned_img\18110326\126.png 215 201 395 433
+./aligned_img\18110326\127.png 213 199 397 436
+./aligned_img\18110326\128.png 211 197 394 435
+./aligned_img\18110326\129.png 210 197 395 436
+./aligned_img\18110326\13.png 226 206 409 428
+./aligned_img\18110326\130.png 210 197 395 438
+./aligned_img\18110326\131.png 210 195 395 438
+./aligned_img\18110326\132.png 208 196 393 438
+./aligned_img\18110326\133.png 207 197 390 438
+./aligned_img\18110326\134.png 205 194 392 440
+./aligned_img\18110326\135.png 207 192 393 443
+./aligned_img\18110326\136.png 209 193 392 440
+./aligned_img\18110326\137.png 206 193 392 442
+./aligned_img\18110326\138.png 206 193 391 442
+./aligned_img\18110326\139.png 204 193 390 442
+./aligned_img\18110326\14.png 228 207 410 429
+./aligned_img\18110326\140.png 204 197 387 440
+./aligned_img\18110326\141.png 206 196 389 440
+./aligned_img\18110326\142.png 204 197 388 440
+./aligned_img\18110326\143.png 206 198 387 438
+./aligned_img\18110326\144.png 205 199 387 437
+./aligned_img\18110326\145.png 204 198 387 438
+./aligned_img\18110326\146.png 203 203 384 436
+./aligned_img\18110326\147.png 206 200 387 437
+./aligned_img\18110326\148.png 204 198 388 437
+./aligned_img\18110326\149.png 205 199 388 436
+./aligned_img\18110326\15.png 225 194 417 435
+./aligned_img\18110326\150.png 207 200 388 434
+./aligned_img\18110326\151.png 212 199 391 432
+./aligned_img\18110326\152.png 216 196 394 431
+./aligned_img\18110326\153.png 215 199 393 426
+./aligned_img\18110326\154.png 216 209 393 427
+./aligned_img\18110326\155.png 221 212 393 426
+./aligned_img\18110326\156.png 221 199 398 425
+./aligned_img\18110326\157.png 221 194 405 430
+./aligned_img\18110326\158.png 225 199 400 419
+./aligned_img\18110326\159.png 226 198 406 429
+./aligned_img\18110326\16.png 229 207 412 430
+./aligned_img\18110326\160.png 228 198 409 428
+./aligned_img\18110326\161.png 232 204 408 423
+./aligned_img\18110326\162.png 230 196 414 419
+./aligned_img\18110326\163.png 233 194 416 419
+./aligned_img\18110326\164.png 236 194 418 420
+./aligned_img\18110326\165.png 240 195 422 422
+./aligned_img\18110326\166.png 246 197 425 410
+./aligned_img\18110326\167.png 248 197 428 409
+./aligned_img\18110326\168.png 253 193 434 413
+./aligned_img\18110326\169.png 256 192 437 413
+./aligned_img\18110326\17.png 231 207 413 430
+./aligned_img\18110326\170.png 262 196 440 417
+./aligned_img\18110326\171.png 264 195 444 417
+./aligned_img\18110326\172.png 264 192 444 414
+./aligned_img\18110326\173.png 266 195 444 410
+./aligned_img\18110326\174.png 268 192 446 416
+./aligned_img\18110326\175.png 279 199 452 416
+./aligned_img\18110326\176.png 281 198 454 415
+./aligned_img\18110326\177.png 280 192 454 411
+./aligned_img\18110326\178.png 282 192 459 413
+./aligned_img\18110326\179.png 285 191 463 415
+./aligned_img\18110326\18.png 224 196 419 437
+./aligned_img\18110326\180.png 290 194 464 414
+./aligned_img\18110326\181.png 291 193 467 414
+./aligned_img\18110326\182.png 292 193 468 412
+./aligned_img\18110326\183.png 294 193 470 411
+./aligned_img\18110326\184.png 296 197 470 412
+./aligned_img\18110326\185.png 297 193 475 416
+./aligned_img\18110326\186.png 302 196 477 417
+./aligned_img\18110326\187.png 303 196 478 418
+./aligned_img\18110326\188.png 301 192 477 417
+./aligned_img\18110326\189.png 301 188 480 425
+./aligned_img\18110326\19.png 230 200 421 434
+./aligned_img\18110326\190.png 301 186 481 428
+./aligned_img\18110326\191.png 307 190 480 416
+./aligned_img\18110326\192.png 307 195 478 414
+./aligned_img\18110326\193.png 309 192 481 415
+./aligned_img\18110326\194.png 307 197 478 414
+./aligned_img\18110326\195.png 304 194 481 428
+./aligned_img\18110326\196.png 303 193 482 426
+./aligned_img\18110326\197.png 302 193 480 428
+./aligned_img\18110326\198.png 306 196 480 426
+./aligned_img\18110326\199.png 305 197 475 412
+./aligned_img\18110326\2.png 227 207 409 428
+./aligned_img\18110326\20.png 229 196 424 436
+./aligned_img\18110326\200.png 307 203 475 416
+./aligned_img\18110326\201.png 303 200 474 416
+./aligned_img\18110326\202.png 299 198 470 410
+./aligned_img\18110326\203.png 300 198 473 416
+./aligned_img\18110326\204.png 295 199 464 409
+./aligned_img\18110326\205.png 291 198 462 410
+./aligned_img\18110326\206.png 289 202 461 411
+./aligned_img\18110326\207.png 285 200 458 413
+./aligned_img\18110326\208.png 279 198 454 413
+./aligned_img\18110326\209.png 274 199 453 420
+./aligned_img\18110326\21.png 233 202 422 436
+./aligned_img\18110326\210.png 273 200 449 416
+./aligned_img\18110326\211.png 266 200 443 416
+./aligned_img\18110326\212.png 264 201 442 415
+./aligned_img\18110326\213.png 265 199 446 420
+./aligned_img\18110326\214.png 259 199 437 414
+./aligned_img\18110326\215.png 258 201 435 412
+./aligned_img\18110326\216.png 256 201 433 411
+./aligned_img\18110326\217.png 255 199 433 413
+./aligned_img\18110326\218.png 254 203 437 425
+./aligned_img\18110326\219.png 251 201 431 416
+./aligned_img\18110326\22.png 235 201 424 435
+./aligned_img\18110326\220.png 250 202 431 416
+./aligned_img\18110326\221.png 250 201 431 418
+./aligned_img\18110326\222.png 249 199 432 425
+./aligned_img\18110326\223.png 249 202 431 427
+./aligned_img\18110326\224.png 250 202 430 428
+./aligned_img\18110326\225.png 249 200 432 428
+./aligned_img\18110326\226.png 249 201 431 428
+./aligned_img\18110326\227.png 248 199 432 428
+./aligned_img\18110326\228.png 249 200 432 428
+./aligned_img\18110326\229.png 248 199 431 426
+./aligned_img\18110326\23.png 235 200 424 431
+./aligned_img\18110326\230.png 251 201 430 426
+./aligned_img\18110326\231.png 250 200 431 416
+./aligned_img\18110326\232.png 252 200 430 414
+./aligned_img\18110326\233.png 252 196 431 412
+./aligned_img\18110326\234.png 251 195 430 408
+./aligned_img\18110326\235.png 251 194 431 416
+./aligned_img\18110326\236.png 254 190 432 407
+./aligned_img\18110326\237.png 250 184 434 405
+./aligned_img\18110326\238.png 255 182 431 396
+./aligned_img\18110326\239.png 256 185 432 396
+./aligned_img\18110326\24.png 243 203 427 430
+./aligned_img\18110326\240.png 260 189 429 390
+./aligned_img\18110326\241.png 260 186 432 389
+./aligned_img\18110326\242.png 256 176 434 393
+./aligned_img\18110326\243.png 257 173 436 392
+./aligned_img\18110326\244.png 257 169 434 380
+./aligned_img\18110326\245.png 254 167 437 381
+./aligned_img\18110326\246.png 256 167 436 376
+./aligned_img\18110326\247.png 263 164 435 372
+./aligned_img\18110326\248.png 260 164 435 371
+./aligned_img\18110326\249.png 257 163 435 369
+./aligned_img\18110326\25.png 243 202 428 428
+./aligned_img\18110326\250.png 257 163 435 368
+./aligned_img\18110326\251.png 258 163 435 365
+./aligned_img\18110326\252.png 254 161 440 368
+./aligned_img\18110326\253.png 256 166 434 365
+./aligned_img\18110326\254.png 255 160 436 362
+./aligned_img\18110326\255.png 258 160 440 368
+./aligned_img\18110326\256.png 248 154 438 365
+./aligned_img\18110326\257.png 250 158 436 363
+./aligned_img\18110326\258.png 258 159 442 368
+./aligned_img\18110326\259.png 256 158 437 363
+./aligned_img\18110326\26.png 247 208 428 430
+./aligned_img\18110326\260.png 254 160 438 366
+./aligned_img\18110326\261.png 256 166 434 366
+./aligned_img\18110326\262.png 250 157 437 366
+./aligned_img\18110326\263.png 254 165 435 368
+./aligned_img\18110326\264.png 260 163 433 365
+./aligned_img\18110326\265.png 260 164 435 366
+./aligned_img\18110326\266.png 262 165 435 367
+./aligned_img\18110326\267.png 258 164 435 369
+./aligned_img\18110326\268.png 257 166 434 374
+./aligned_img\18110326\269.png 251 163 436 377
+./aligned_img\18110326\27.png 247 205 429 428
+./aligned_img\18110326\270.png 254 166 436 379
+./aligned_img\18110326\271.png 256 172 435 382
+./aligned_img\18110326\272.png 255 172 435 384
+./aligned_img\18110326\273.png 257 180 434 383
+./aligned_img\18110326\274.png 256 183 433 388
+./aligned_img\18110326\275.png 257 184 433 389
+./aligned_img\18110326\276.png 256 186 431 389
+./aligned_img\18110326\277.png 256 185 430 390
+./aligned_img\18110326\278.png 258 187 429 389
+./aligned_img\18110326\279.png 252 180 431 399
+./aligned_img\18110326\28.png 245 202 429 426
+./aligned_img\18110326\280.png 251 181 432 401
+./aligned_img\18110326\281.png 252 183 432 398
+./aligned_img\18110326\282.png 251 186 430 399
+./aligned_img\18110326\283.png 248 187 430 407
+./aligned_img\18110326\284.png 251 193 429 407
+./aligned_img\18110326\285.png 252 193 431 411
+./aligned_img\18110326\286.png 251 197 430 411
+./aligned_img\18110326\287.png 252 201 430 413
+./aligned_img\18110326\288.png 252 200 431 418
+./aligned_img\18110326\289.png 252 204 431 419
+./aligned_img\18110326\29.png 243 196 427 415
+./aligned_img\18110326\290.png 252 204 431 420
+./aligned_img\18110326\291.png 251 205 432 423
+./aligned_img\18110326\292.png 251 206 432 423
+./aligned_img\18110326\293.png 253 206 432 423
+./aligned_img\18110326\294.png 254 210 431 423
+./aligned_img\18110326\295.png 254 211 431 425
+./aligned_img\18110326\296.png 255 213 432 427
+./aligned_img\18110326\297.png 252 211 433 429
+./aligned_img\18110326\298.png 254 211 433 430
+./aligned_img\18110326\299.png 256 214 436 434
+./aligned_img\18110326\3.png 226 204 410 430
+./aligned_img\18110326\30.png 244 196 427 413
+./aligned_img\18110326\300.png 255 221 433 430
+./aligned_img\18110326\301.png 255 222 436 434
+./aligned_img\18110326\302.png 253 221 437 437
+./aligned_img\18110326\303.png 252 224 436 438
+./aligned_img\18110326\304.png 252 225 436 437
+./aligned_img\18110326\305.png 253 225 436 438
+./aligned_img\18110326\306.png 254 224 437 437
+./aligned_img\18110326\307.png 253 224 437 436
+./aligned_img\18110326\308.png 254 220 437 440
+./aligned_img\18110326\309.png 257 224 436 435
+./aligned_img\18110326\31.png 244 195 427 409
+./aligned_img\18110326\310.png 256 221 439 436
+./aligned_img\18110326\311.png 258 223 437 434
+./aligned_img\18110326\312.png 257 222 437 434
+./aligned_img\18110326\313.png 256 218 440 436
+./aligned_img\18110326\314.png 263 222 440 433
+./aligned_img\18110326\315.png 261 213 443 436
+./aligned_img\18110326\316.png 264 210 453 443
+./aligned_img\18110326\317.png 268 209 454 439
+./aligned_img\18110326\318.png 275 216 452 431
+./aligned_img\18110326\319.png 274 210 454 433
+./aligned_img\18110326\32.png 243 192 427 408
+./aligned_img\18110326\320.png 281 210 461 434
+./aligned_img\18110326\321.png 279 212 459 437
+./aligned_img\18110326\322.png 288 206 475 440
+./aligned_img\18110326\323.png 295 210 474 440
+./aligned_img\18110326\324.png 296 214 479 440
+./aligned_img\18110326\325.png 298 209 478 427
+./aligned_img\18110326\326.png 300 209 480 434
+./aligned_img\18110326\327.png 303 207 479 431
+./aligned_img\18110326\328.png 303 205 485 432
+./aligned_img\18110326\329.png 302 205 481 436
+./aligned_img\18110326\33.png 245 192 427 407
+./aligned_img\18110326\330.png 306 207 482 428
+./aligned_img\18110326\331.png 314 211 487 435
+./aligned_img\18110326\332.png 306 202 489 434
+./aligned_img\18110326\333.png 306 203 489 433
+./aligned_img\18110326\334.png 310 208 487 428
+./aligned_img\18110326\335.png 313 207 486 425
+./aligned_img\18110326\336.png 311 206 486 427
+./aligned_img\18110326\337.png 314 207 486 428
+./aligned_img\18110326\338.png 313 207 488 429
+./aligned_img\18110326\339.png 312 207 486 426
+./aligned_img\18110326\34.png 243 188 428 416
+./aligned_img\18110326\340.png 311 203 493 436
+./aligned_img\18110326\341.png 306 208 485 429
+./aligned_img\18110326\342.png 311 203 491 436
+./aligned_img\18110326\343.png 307 202 490 432
+./aligned_img\18110326\344.png 312 211 486 429
+./aligned_img\18110326\345.png 306 207 484 429
+./aligned_img\18110326\346.png 304 205 482 430
+./aligned_img\18110326\347.png 299 207 481 437
+./aligned_img\18110326\348.png 296 209 479 430
+./aligned_img\18110326\349.png 298 214 475 438
+./aligned_img\18110326\35.png 247 187 428 406
+./aligned_img\18110326\350.png 294 210 475 440
+./aligned_img\18110326\351.png 292 216 472 433
+./aligned_img\18110326\352.png 289 207 470 438
+./aligned_img\18110326\353.png 289 209 470 437
+./aligned_img\18110326\354.png 283 204 466 436
+./aligned_img\18110326\355.png 280 204 463 435
+./aligned_img\18110326\356.png 278 203 463 430
+./aligned_img\18110326\357.png 282 209 462 427
+./aligned_img\18110326\358.png 281 208 461 427
+./aligned_img\18110326\359.png 278 206 461 430
+./aligned_img\18110326\36.png 245 186 427 408
+./aligned_img\18110326\360.png 281 211 461 436
+./aligned_img\18110326\361.png 276 206 459 432
+./aligned_img\18110326\362.png 272 203 456 427
+./aligned_img\18110326\363.png 271 202 454 427
+./aligned_img\18110326\364.png 270 201 454 426
+./aligned_img\18110326\365.png 269 201 451 423
+./aligned_img\18110326\366.png 271 207 450 429
+./aligned_img\18110326\367.png 265 200 448 431
+./aligned_img\18110326\368.png 262 202 445 431
+./aligned_img\18110326\369.png 260 198 441 424
+./aligned_img\18110326\37.png 244 184 427 409
+./aligned_img\18110326\370.png 262 204 439 420
+./aligned_img\18110326\371.png 262 205 435 419
+./aligned_img\18110326\372.png 256 199 435 420
+./aligned_img\18110326\373.png 251 200 432 422
+./aligned_img\18110326\374.png 252 203 430 421
+./aligned_img\18110326\375.png 251 204 429 423
+./aligned_img\18110326\376.png 251 205 429 423
+./aligned_img\18110326\377.png 251 207 425 421
+./aligned_img\18110326\378.png 252 208 425 421
+./aligned_img\18110326\379.png 251 209 425 420
+./aligned_img\18110326\38.png 245 184 425 403
+./aligned_img\18110326\380.png 251 210 425 419
+./aligned_img\18110326\381.png 252 211 425 419
+./aligned_img\18110326\382.png 252 211 424 419
+./aligned_img\18110326\383.png 251 210 424 417
+./aligned_img\18110326\384.png 245 193 433 429
+./aligned_img\18110326\385.png 250 202 428 423
+./aligned_img\18110326\386.png 245 202 431 428
+./aligned_img\18110326\387.png 247 198 429 423
+./aligned_img\18110326\388.png 247 194 428 419
+./aligned_img\18110326\389.png 252 192 427 410
+./aligned_img\18110326\39.png 246 183 424 400
+./aligned_img\18110326\390.png 253 193 426 406
+./aligned_img\18110326\391.png 249 188 426 408
+./aligned_img\18110326\392.png 252 183 428 399
+./aligned_img\18110326\393.png 255 181 428 397
+./aligned_img\18110326\394.png 259 186 427 385
+./aligned_img\18110326\395.png 255 176 430 384
+./aligned_img\18110326\396.png 258 178 432 381
+./aligned_img\18110326\397.png 257 175 430 377
+./aligned_img\18110326\398.png 253 172 431 375
+./aligned_img\18110326\399.png 262 171 431 377
+./aligned_img\18110326\4.png 226 203 411 431
+./aligned_img\18110326\40.png 246 181 424 398
+./aligned_img\18110326\400.png 253 167 429 370
+./aligned_img\18110326\401.png 251 162 429 367
+./aligned_img\18110326\402.png 251 163 430 372
+./aligned_img\18110326\403.png 257 163 430 369
+./aligned_img\18110326\404.png 256 161 432 367
+./aligned_img\18110326\405.png 255 156 437 366
+./aligned_img\18110326\406.png 250 163 430 361
+./aligned_img\18110326\407.png 257 157 437 360
+./aligned_img\18110326\408.png 251 155 434 362
+./aligned_img\18110326\409.png 243 151 432 364
+./aligned_img\18110326\41.png 246 180 424 397
+./aligned_img\18110326\410.png 250 154 433 361
+./aligned_img\18110326\411.png 248 156 429 361
+./aligned_img\18110326\412.png 256 156 432 362
+./aligned_img\18110326\413.png 248 155 430 360
+./aligned_img\18110326\414.png 249 153 434 362
+./aligned_img\18110326\415.png 248 154 433 361
+./aligned_img\18110326\416.png 251 155 435 364
+./aligned_img\18110326\417.png 257 155 437 358
+./aligned_img\18110326\418.png 260 163 432 361
+./aligned_img\18110326\419.png 253 163 431 360
+./aligned_img\18110326\42.png 249 180 425 392
+./aligned_img\18110326\420.png 260 161 432 359
+./aligned_img\18110326\421.png 258 161 430 362
+./aligned_img\18110326\422.png 254 163 430 364
+./aligned_img\18110326\423.png 256 161 431 372
+./aligned_img\18110326\424.png 261 166 434 373
+./aligned_img\18110326\425.png 261 169 433 376
+./aligned_img\18110326\426.png 256 168 432 378
+./aligned_img\18110326\427.png 255 167 436 387
+./aligned_img\18110326\428.png 257 183 433 388
+./aligned_img\18110326\429.png 264 181 436 385
+./aligned_img\18110326\43.png 249 177 424 386
+./aligned_img\18110326\430.png 270 185 435 398
+./aligned_img\18110326\431.png 252 181 440 401
+./aligned_img\18110326\432.png 257 185 439 407
+./aligned_img\18110326\433.png 256 191 439 413
+./aligned_img\18110326\434.png 257 194 438 414
+./aligned_img\18110326\435.png 258 195 440 415
+./aligned_img\18110326\436.png 252 188 442 422
+./aligned_img\18110326\437.png 257 194 441 420
+./aligned_img\18110326\438.png 259 196 444 422
+./aligned_img\18110326\439.png 255 195 443 429
+./aligned_img\18110326\44.png 247 176 426 396
+./aligned_img\18110326\440.png 259 200 444 427
+./aligned_img\18110326\441.png 258 203 443 434
+./aligned_img\18110326\442.png 258 202 442 425
+./aligned_img\18110326\443.png 260 203 445 430
+./aligned_img\18110326\444.png 257 200 445 435
+./aligned_img\18110326\445.png 255 199 442 431
+./aligned_img\18110326\446.png 260 208 441 426
+./aligned_img\18110326\447.png 261 210 441 427
+./aligned_img\18110326\448.png 262 213 440 426
+./aligned_img\18110326\449.png 260 213 440 426
+./aligned_img\18110326\45.png 247 176 426 395
+./aligned_img\18110326\450.png 257 200 445 437
+./aligned_img\18110326\451.png 258 205 442 437
+./aligned_img\18110326\452.png 258 206 442 437
+./aligned_img\18110326\453.png 259 216 436 427
+./aligned_img\18110326\454.png 258 215 436 428
+./aligned_img\18110326\455.png 258 214 437 429
+./aligned_img\18110326\456.png 258 214 436 428
+./aligned_img\18110326\457.png 255 214 434 429
+./aligned_img\18110326\458.png 252 213 433 428
+./aligned_img\18110326\459.png 254 217 430 427
+./aligned_img\18110326\46.png 248 178 426 396
+./aligned_img\18110326\460.png 251 215 426 428
+./aligned_img\18110326\461.png 248 217 425 428
+./aligned_img\18110326\462.png 242 202 433 440
+./aligned_img\18110326\463.png 246 206 428 441
+./aligned_img\18110326\464.png 241 209 423 439
+./aligned_img\18110326\465.png 242 204 425 442
+./aligned_img\18110326\466.png 238 205 424 440
+./aligned_img\18110326\467.png 235 208 421 441
+./aligned_img\18110326\468.png 234 208 421 442
+./aligned_img\18110326\469.png 245 213 422 442
+./aligned_img\18110326\47.png 244 174 429 398
+./aligned_img\18110326\470.png 235 209 419 441
+./aligned_img\18110326\471.png 234 209 416 441
+./aligned_img\18110326\472.png 235 209 418 444
+./aligned_img\18110326\473.png 236 211 415 443
+./aligned_img\18110326\474.png 232 211 417 445
+./aligned_img\18110326\475.png 232 209 417 444
+./aligned_img\18110326\476.png 229 208 417 446
+./aligned_img\18110326\477.png 231 212 416 448
+./aligned_img\18110326\478.png 232 211 415 444
+./aligned_img\18110326\479.png 229 206 418 446
+./aligned_img\18110326\48.png 249 180 426 385
+./aligned_img\18110326\480.png 228 207 418 447
+./aligned_img\18110326\481.png 229 210 416 446
+./aligned_img\18110326\482.png 228 208 417 446
+./aligned_img\18110326\483.png 228 211 413 444
+./aligned_img\18110326\484.png 228 208 416 446
+./aligned_img\18110326\485.png 230 209 417 445
+./aligned_img\18110326\486.png 232 208 418 448
+./aligned_img\18110326\487.png 231 208 414 441
+./aligned_img\18110326\488.png 228 208 410 438
+./aligned_img\18110326\489.png 236 210 419 444
+./aligned_img\18110326\49.png 249 179 425 384
+./aligned_img\18110326\490.png 232 201 422 443
+./aligned_img\18110326\491.png 235 203 422 442
+./aligned_img\18110326\492.png 237 208 421 439
+./aligned_img\18110326\493.png 235 206 423 442
+./aligned_img\18110326\494.png 236 202 421 439
+./aligned_img\18110326\495.png 234 203 422 442
+./aligned_img\18110326\496.png 238 204 422 442
+./aligned_img\18110326\497.png 235 204 421 439
+./aligned_img\18110326\498.png 236 206 420 440
+./aligned_img\18110326\499.png 234 204 421 438
+./aligned_img\18110326\5.png 226 194 416 437
+./aligned_img\18110326\50.png 252 178 427 385
+./aligned_img\18110326\500.png 234 199 425 442
+./aligned_img\18110326\51.png 253 178 426 382
+./aligned_img\18110326\52.png 261 174 432 393
+./aligned_img\18110326\53.png 265 175 429 388
+./aligned_img\18110326\54.png 261 177 424 384
+./aligned_img\18110326\55.png 262 175 427 387
+./aligned_img\18110326\56.png 263 173 429 387
+./aligned_img\18110326\57.png 263 174 427 386
+./aligned_img\18110326\58.png 251 175 427 387
+./aligned_img\18110326\59.png 251 176 425 385
+./aligned_img\18110326\6.png 225 201 411 431
+./aligned_img\18110326\60.png 250 175 425 384
+./aligned_img\18110326\61.png 252 176 425 385
+./aligned_img\18110326\62.png 251 176 425 385
+./aligned_img\18110326\63.png 251 176 425 385
+./aligned_img\18110326\64.png 251 175 426 386
+./aligned_img\18110326\65.png 251 174 425 384
+./aligned_img\18110326\66.png 251 175 425 384
+./aligned_img\18110326\67.png 251 174 425 385
+./aligned_img\18110326\68.png 249 172 425 386
+./aligned_img\18110326\69.png 250 178 420 380
+./aligned_img\18110326\7.png 224 199 412 433
+./aligned_img\18110326\70.png 249 173 424 385
+./aligned_img\18110326\71.png 248 171 423 385
+./aligned_img\18110326\72.png 249 173 424 388
+./aligned_img\18110326\73.png 248 171 423 386
+./aligned_img\18110326\74.png 249 175 423 389
+./aligned_img\18110326\75.png 248 176 422 385
+./aligned_img\18110326\76.png 250 179 420 382
+./aligned_img\18110326\77.png 248 175 422 387
+./aligned_img\18110326\78.png 248 177 421 387
+./aligned_img\18110326\79.png 249 176 421 385
+./aligned_img\18110326\8.png 226 202 410 431
+./aligned_img\18110326\80.png 245 178 422 394
+./aligned_img\18110326\81.png 245 178 421 395
+./aligned_img\18110326\82.png 244 180 420 396
+./aligned_img\18110326\83.png 244 181 419 397
+./aligned_img\18110326\84.png 244 182 420 398
+./aligned_img\18110326\85.png 244 184 419 398
+./aligned_img\18110326\86.png 244 186 420 400
+./aligned_img\18110326\87.png 244 187 421 402
+./aligned_img\18110326\88.png 243 190 420 404
+./aligned_img\18110326\89.png 243 192 421 405
+./aligned_img\18110326\9.png 226 204 410 431
+./aligned_img\18110326\90.png 247 198 416 406
+./aligned_img\18110326\91.png 242 191 421 403
+./aligned_img\18110326\92.png 242 193 422 407
+./aligned_img\18110326\93.png 242 195 423 410
+./aligned_img\18110326\94.png 240 195 423 421
+./aligned_img\18110326\95.png 243 200 423 410
+./aligned_img\18110326\96.png 243 201 422 413
+./aligned_img\18110326\97.png 239 195 425 425
+./aligned_img\18110326\98.png 245 204 421 414
+./aligned_img\18110326\99.png 245 203 422 414

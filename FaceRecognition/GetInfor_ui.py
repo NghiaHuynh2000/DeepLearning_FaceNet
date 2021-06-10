@@ -1,86 +1,102 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
 from GetImageToData import *
+
 class Ui_EnterID(object):
-    def setupUi(self, EnterID):
+    def setupUi(self, GetInfor_2):
         def ClickOK(se):
-            Get_Image_To_Database(self.textEdit.toPlainText(),self.textEdit_2.toPlainText())
+            Get_Image_To_Database(self.txtEditID.toPlainText(),self.txtEditName.toPlainText())
          
-            print(1)
-        def ClickCancel(self):
-            print(2)
-        EnterID.setObjectName("EnterID")
-        EnterID.resize(400, 203)
-        EnterID.setStyleSheet("Background-color:#222222")
-        self.gbID = QtWidgets.QGroupBox(EnterID)
-        self.gbID.setGeometry(QtCore.QRect(30, 10, 341, 131))
-        self.gbID.setStyleSheet("color:white")
-        self.gbID.setObjectName("gbID")
-        self.textEdit = QtWidgets.QTextEdit(self.gbID)
-        self.textEdit.setGeometry(QtCore.QRect(20, 40, 81, 31))
-        self.textEdit.setStyleSheet("background-color:white; color: black")
-        self.textEdit.setObjectName("textEdit")
-        self.textEdit_2 = QtWidgets.QTextEdit(self.gbID)
-        self.textEdit_2.setGeometry(QtCore.QRect(20, 80, 231, 31))
-        self.textEdit_2.setStyleSheet("background-color:white; color: black")
-        self.textEdit_2.setObjectName("textEdit_2")
-        self.label = QtWidgets.QLabel(self.gbID)
-        self.label.setGeometry(QtCore.QRect(110, 50, 55, 16))
+            print("Chup anh hoan tat!!!")
+        GetInfor_2.setObjectName("GetInfor_2")
+        GetInfor_2.resize(460, 377)
+        GetInfor_2.setFocusPolicy(QtCore.Qt.NoFocus)
+        icon = QtGui.QIcon()
+        icon.addPixmap(QtGui.QPixmap("facial_recognition-512.png"), QtGui.QIcon.Normal, QtGui.QIcon.Off)
+        GetInfor_2.setWindowIcon(icon)
+        self.GetInfor = QtWidgets.QWidget(GetInfor_2)
+        self.GetInfor.setGeometry(QtCore.QRect(0, -10, 461, 391))
+        self.GetInfor.setStyleSheet("background-color: qlineargradient(spread:pad, x1:, y:1, x2:1, y2:, stop:0 #006633, stop:1 #6A82FB);")
+        self.GetInfor.setObjectName("GetInfor")
+        self.widget_2 = QtWidgets.QWidget(self.GetInfor)
+        self.widget_2.setGeometry(QtCore.QRect(30, 60, 401, 281))
+        self.widget_2.setStyleSheet("background-color: #FFFFCC;border-radius: 20px;")
+        self.widget_2.setObjectName("widget_2")
+        self.lblTitle = QtWidgets.QLabel(self.widget_2)
+        self.lblTitle.setGeometry(QtCore.QRect(60, 20, 301, 61))
+        font = QtGui.QFont()
+        font.setFamily("Kozuka Gothic Pro L")
+        font.setPointSize(19)
+        font.setBold(True)
+        font.setUnderline(True)
+        font.setWeight(75)
+        self.lblTitle.setFont(font)
+        self.lblTitle.setLayoutDirection(QtCore.Qt.LeftToRight)
+        self.lblTitle.setStyleSheet("color:#330033;")
+        self.lblTitle.setTextFormat(QtCore.Qt.AutoText)
+        self.lblTitle.setAlignment(QtCore.Qt.AlignCenter)
+        self.lblTitle.setWordWrap(True)
+        self.lblTitle.setObjectName("lblTitle")
+        self.txtEditID = QtWidgets.QTextEdit(self.widget_2)
+        self.txtEditID.setGeometry(QtCore.QRect(150, 110, 201, 31))
+        font = QtGui.QFont()
+        font.setPointSize(10)
+        self.txtEditID.setFont(font)
+        self.txtEditID.setStyleSheet("background-color: white;border: 0.5px solid;")
+        self.txtEditID.setObjectName("txtEditID")
+        self.txtEditName = QtWidgets.QTextEdit(self.widget_2)
+        self.txtEditName.setGeometry(QtCore.QRect(150, 150, 201, 31))
+        font = QtGui.QFont()
+        font.setPointSize(10)
+        self.txtEditName.setFont(font)
+        self.txtEditName.setStyleSheet("background-color: white;border: 0.5px solid;")
+        self.txtEditName.setObjectName("txtEditName")
+        self.pushButton = QtWidgets.QPushButton(self.widget_2)
+        self.pushButton.setGeometry(QtCore.QRect(110, 210, 181, 41))
+        font = QtGui.QFont()
+        font.setPointSize(12)
+        self.pushButton.setFont(font)
+        self.pushButton.setStyleSheet("color:white;background-color: qlineargradient(spread:pad, x1:, y:1, x2:1, y2:, stop:0 #11998e, stop:1 #38ef7d);border-style: solid;")
+        self.pushButton.setObjectName("pushButton")
+        self.pushButton.clicked.connect(ClickOK)
+
+        self.label = QtWidgets.QLabel(self.widget_2)
+        self.label.setGeometry(QtCore.QRect(100, 120, 41, 16))
+        font = QtGui.QFont()
+        font.setPointSize(11)
+        font.setBold(True)
+        font.setWeight(75)
+        self.label.setFont(font)
+        self.label.setStyleSheet("color:#330033;")
         self.label.setObjectName("label")
-        self.label_2 = QtWidgets.QLabel(self.gbID)
-        self.label_2.setGeometry(QtCore.QRect(260, 90, 55, 16))
+        self.label_2 = QtWidgets.QLabel(self.widget_2)
+        self.label_2.setGeometry(QtCore.QRect(70, 150, 71, 31))
+        font = QtGui.QFont()
+        font.setPointSize(11)
+        font.setBold(True)
+        font.setWeight(75)
+        self.label_2.setFont(font)
+        self.label_2.setStyleSheet("color:#330033;")
         self.label_2.setObjectName("label_2")
-        self.btnRC = QtWidgets.QPushButton(EnterID)
-        self.btnRC.setGeometry(QtCore.QRect(100, 150, 131, 31))
-        font = QtGui.QFont()
-        font.setPointSize(10)
-        self.btnRC.setFont(font)
-        self.btnRC.setStyleSheet("QPushButton {\n"
-            "    color: rgb(255, 255, 255);\n"
-            "    background-color:#777777;\n"
-            "    border: 0px solid;\n"
-            "}\n"
-            "QPushButton:hover {\n"
-            "    background-color: rgb(85, 170, 255);\n"
-            "}")
-        self.btnRC.setObjectName("btnRC")
-        self.btnRC.clicked.connect(ClickOK)
-        
-        self.btnRC_2 = QtWidgets.QPushButton(EnterID)
-        self.btnRC_2.setGeometry(QtCore.QRect(240, 150, 131, 31))
-        font = QtGui.QFont()
-        font.setPointSize(10)
-        self.btnRC_2.setFont(font)
-        self.btnRC_2.setStyleSheet("QPushButton {\n"
-            "    color: rgb(255, 255, 255);\n"
-            "    background-color:#777777;\n"
-            "    border: 0px solid;\n"
-            "}\n"
-            "QPushButton:hover {\n"
-            "    background-color: rgb(85, 170, 255);\n"
-            "}")
-        self.btnRC_2.setObjectName("btnRC_2")
-        self.btnRC_2.clicked.connect(ClickCancel)
-        
 
+        self.retranslateUi(GetInfor_2)
+        QtCore.QMetaObject.connectSlotsByName(GetInfor_2)
 
-        self.retranslateUi(EnterID)
-        QtCore.QMetaObject.connectSlotsByName(EnterID)
-
-    def retranslateUi(self, EnterID):
+    def retranslateUi(self, GetInfor_2):
         _translate = QtCore.QCoreApplication.translate
-        EnterID.setWindowTitle(_translate("EnterID", "Information"))
-        self.gbID.setTitle(_translate("EnterID", "Enter Information"))
-        self.label.setText(_translate("EnterID", "(ID)"))
-        self.label_2.setText(_translate("EnterID", "(Name)"))
-        self.btnRC.setText(_translate("EnterID", "OK"))
-        self.btnRC_2.setText(_translate("EnterID", "Cancel"))
+        GetInfor_2.setWindowTitle(_translate("GetInfor_2", "Face Reconigation"))
+        self.lblTitle.setText(_translate("GetInfor_2", "Enter Information"))
+        self.pushButton.setText(_translate("GetInfor_2", "Confirm"))
+        self.label.setText(_translate("GetInfor_2", "ID:"))
+        self.label_2.setText(_translate("GetInfor_2", "Name:"))
+
+
 
 
 if __name__ == "__main__":
     import sys
     app = QtWidgets.QApplication(sys.argv)
-    EnterID = QtWidgets.QDialog()
+    Get_infor = QtWidgets.QMainWindow()
     ui = Ui_EnterID()
-    ui.setupUi(EnterID)
-    EnterID.show()
+    ui.setupUi(Get_infor)
+    Get_infor.show()
     sys.exit(app.exec_())

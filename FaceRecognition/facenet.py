@@ -96,6 +96,7 @@ def get_image_paths_and_labels(dataset):
         labels_flat += [i] * len(dataset[i].image_paths)
     return image_paths_flat, labels_flat
 
+# Trộn ảnh chống bias.
 def shuffle_examples(image_paths, labels):
     shuffle_list = list(zip(image_paths, labels))
     random.shuffle(shuffle_list)
@@ -113,11 +114,13 @@ def read_images_from_disk(input_queue):
     file_contents = tf.read_file(input_queue[0])
     example = tf.image.decode_png(file_contents, channels=3)
     return example, label
-  
+ 
+# xoay hình ảnh
 def random_rotate_image(image):
     angle = np.random.uniform(low=-10.0, high=10.0)
     return misc.imrotate(image, angle, 'bicubic')
-  
+
+# lật hình ảnh
 def read_and_augment_data(image_list, label_list, image_size, batch_size, max_nrof_epochs, 
         random_crop, random_flip, random_rotate, nrof_preprocess_threads, shuffle=True):
     
